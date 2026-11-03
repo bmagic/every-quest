@@ -130,7 +130,7 @@ local function routeDef(steps, why)
 		title = L["Every Quest: your route"],
 		-- No faction: the addon is for both, and Polestar would show this character's as if the addon were for it alone.
 		why = why,
-		minLevel = 1,
+		minLevel = 60,
 		maxLevel = 60,
 		category = "Miscellaneous",
 		zone = zone,

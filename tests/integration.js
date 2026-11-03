@@ -614,6 +614,7 @@ function allianceTest() {
       local g = Polestar.Guides.Get("every-quest/route")
       r.steps = #g.steps
       r.guideFaction = g.faction
+      r.guideLevels = g.minLevel .. "-" .. g.maxLevel
       r.savedFaction = PolestarEveryQuestDB.faction
       emit(r)
       Polestar.Engine.SetGuide("every-quest/route")
@@ -743,7 +744,7 @@ const undead = { race: 'Scourge', cls: 'WARRIOR' };
   const a = allianceTest();
   const [al, alSim] = a.emitted;
   const okA = al && al.popups === 0 && al.forThis && al.faction === 'Alliance' && al.ownQuest && !al.hordeQuest && al.ownCatalog === 'Alliance'
-    && al.computeEnabled && al.planned && al.steps > 100 && al.guideFaction === undefined && al.savedFaction === 'Alliance' && alSim && alSim.done && !alSim.stuck;
+    && al.computeEnabled && al.planned && al.steps > 100 && al.guideFaction === undefined && al.guideLevels === '60-60' && al.savedFaction === 'Alliance' && alSim && alSim.done && !alSim.stuck;
   if (!okA) failed++;
   console.log(`${okA ? 'ok  ' : 'FAIL'} an Alliance character has its side's quests and a route that plays to its end: ${JSON.stringify(al)}; play ${JSON.stringify(alSim && { done: alSim.done, stuck: alSim.stuck, steps: alSim.steps })}${al ? '' : String(a.stderr || a.stdout || '').slice(0, 1500)}`);
   const n = noFactionTest();
