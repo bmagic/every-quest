@@ -1,0 +1,7772 @@
+[
+ {
+  "id": 1,
+  "title": "The \"Chow\" Quest (123)aa",
+  "level": 4,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 16,
+  "title": "Give Gerard a Drink",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 73,
+  "title": "<TXT> No Reward",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 90,
+  "title": "Seasoned Wolf Kabobs",
+  "level": 25,
+  "reason": "profession"
+ },
+ {
+  "id": 108,
+  "title": "<TXT> Mystery Reward",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 117,
+  "title": "Thunderbrew",
+  "level": 15,
+  "reason": "repeatable"
+ },
+ {
+  "id": 137,
+  "title": "<NYI> <TXT> Stormwind Commendation",
+  "level": 8,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 236,
+  "title": "Awaiting Word",
+  "level": 21,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 241,
+  "title": "<TEST> HEY MISTER WILSON!",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 242,
+  "title": "<UNUSED>",
+  "level": 30,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 254,
+  "title": "Digging Through the Dirt",
+  "level": 35,
+  "reason": "repeatable"
+ },
+ {
+  "id": 259,
+  "title": "<UNUSED>",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 260,
+  "title": "<UNUSED>",
+  "level": 10,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 308,
+  "title": "Distracting Jarven",
+  "level": 7,
+  "reason": "repeatable"
+ },
+ {
+  "id": 316,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 349,
+  "title": "Stranglethorn Fever",
+  "level": 45,
+  "reason": "repeatable"
+ },
+ {
+  "id": 352,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 390,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 403,
+  "title": "Guarded Thunderbrew Barrel",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 406,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 462,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 497,
+  "title": "<UNUSED>",
+  "level": 22,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 534,
+  "title": "<UNUSED>",
+  "level": 34,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 548,
+  "title": "<NYI> <TXT> Bloodstone Pendant",
+  "level": 35,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 579,
+  "title": "Stormwind Library",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 619,
+  "title": "Enticing Negolash",
+  "level": 52,
+  "reason": "repeatable"
+ },
+ {
+  "id": 620,
+  "title": "The Monogrammed Sash",
+  "level": 45,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 636,
+  "title": "Legends of the Earth",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 708,
+  "title": "The Black Box",
+  "level": 40,
+  "reason": "repeatable"
+ },
+ {
+  "id": 774,
+  "title": "<UNUSED>",
+  "level": 4,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 779,
+  "title": "Seal of the Earth",
+  "level": 50,
+  "reason": "repeatable"
+ },
+ {
+  "id": 785,
+  "title": "A Strategic Alliance",
+  "level": 8,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 796,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 797,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 798,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 799,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 800,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 801,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 802,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 803,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 810,
+  "title": "<UNUSED>",
+  "level": 5,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 811,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 814,
+  "title": "<UNUSED>",
+  "level": 6,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 839,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 856,
+  "title": "<UNUSED>",
+  "level": 12,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 866,
+  "title": "Root Samples",
+  "level": 16,
+  "reason": "profession"
+ },
+ {
+  "id": 904,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 908,
+  "title": "Amongst the Ruins",
+  "level": 27,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 912,
+  "title": "Stonesplinter Trogg Disguise",
+  "level": 12,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 946,
+  "title": "<UNUSED>",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 960,
+  "title": "Onu is meditating",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 961,
+  "title": "Onu is meditating",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 987,
+  "title": "<UNUSED>",
+  "level": 30,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 996,
+  "title": "Corrupted Windblossom",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 998,
+  "title": "Corrupted Windblossom",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 999,
+  "title": "When Dreams Turn to Nightmares",
+  "level": 25,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 1005,
+  "title": "What Lurks Beyond",
+  "level": 20,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 1006,
+  "title": "What Lies Beyond",
+  "level": 18,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 1099,
+  "title": "Goblins Win!",
+  "level": 1,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 1127,
+  "title": "Fool's Stout",
+  "level": 44,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1155,
+  "title": "<NYI> <TXT> bug crystal side quest",
+  "level": 55,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1156,
+  "title": "<NYI> <TXT> speak to alchemist pestlezugg",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1157,
+  "title": "<NYI> <TXT> pestlezugg needs items",
+  "level": 57,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1158,
+  "title": "<NYI> <TXT> speak to rabine saturna",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1161,
+  "title": "<NYI> <TXT> gossip shade of ambermoon",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1162,
+  "title": "<NYI> <TXT> speak to hamuul runetotem",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1163,
+  "title": "<NYI> <TXT> speak to tyrande whisperwind",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1174,
+  "title": "Gnomes Win!",
+  "level": 1,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 1191,
+  "title": "Zamek's Distraction",
+  "level": 41,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1192,
+  "title": "Indurium Ore",
+  "level": 42,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1193,
+  "title": "A Broken Trap",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1263,
+  "title": "The Burning Inn <CHANGE TO GOSSIP>",
+  "level": 35,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1277,
+  "title": "<nyi> <TXT> The Centaur Hoofprints",
+  "level": 40,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1278,
+  "title": "<nyi> <TXT> The Grim Totem Clan",
+  "level": 45,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1279,
+  "title": "<nyi> <TXT>The Centaur Hoofprints",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1280,
+  "title": "<nyi> <TXT>The Centaur Hoofprints",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1281,
+  "title": "Jim's Song <CHANGE TO GOSSIP>",
+  "level": 35,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1283,
+  "title": "Fire at the Shady Rest <CHANGE TO GOSSIP>",
+  "level": 35,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1288,
+  "title": "Vimes's Report",
+  "level": 38,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 1289,
+  "title": "Vimes's Report",
+  "level": 38,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 1293,
+  "title": "<nyi> <TXT> Centaur Hoofprints",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1294,
+  "title": "<nyi> <TXT>Centaur Sympathies",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1295,
+  "title": "<nyi> <TXT> Course of Action",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1296,
+  "title": "<nyi> <TXT> Course of Action",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1297,
+  "title": "<nyi> <TXT> Course of Action",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1299,
+  "title": "<nyi> <TXT> Thrall's Dirty Work",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1300,
+  "title": "<nyi> <TXT> Lorn Grim Totem",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1318,
+  "title": "Unfinished Gordok Business",
+  "level": 60,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 1390,
+  "title": "Oops, We Killed Them Again.",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 1423,
+  "title": "The Lost Supplies",
+  "level": 40,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1441,
+  "title": "<UNUSED>",
+  "level": 33,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1442,
+  "title": "Seeking the Kor Gem",
+  "level": 22,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1460,
+  "title": "<UNUSED>",
+  "level": 37,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1461,
+  "title": "<UNUSED>",
+  "level": 37,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1500,
+  "title": "Waking Naralex",
+  "level": 25,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 1514,
+  "title": "Corrupted Windblossom",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 1559,
+  "title": "Flash Bomb Recipe",
+  "level": 37,
+  "reason": "profession"
+ },
+ {
+  "id": 1578,
+  "title": "Supplying the Front",
+  "level": 12,
+  "reason": "profession"
+ },
+ {
+  "id": 1579,
+  "title": "Gaffer Jacks",
+  "level": 12,
+  "reason": "profession"
+ },
+ {
+  "id": 1580,
+  "title": "Electropellers",
+  "level": 12,
+  "reason": "profession"
+ },
+ {
+  "id": 1581,
+  "title": "Elixirs for the Bladeleafs",
+  "level": 8,
+  "reason": "profession"
+ },
+ {
+  "id": 1582,
+  "title": "Moonglow Vest",
+  "level": 18,
+  "reason": "profession"
+ },
+ {
+  "id": 1618,
+  "title": "Gearing Redridge",
+  "level": 16,
+  "reason": "profession"
+ },
+ {
+  "id": 1641,
+  "title": "The Tome of Divinity",
+  "level": 12,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1642,
+  "title": "The Tome of Divinity",
+  "level": 12,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 1643,
+  "title": "The Tome of Divinity",
+  "level": 12,
+  "reason": "behind quest 1642 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1644,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1643 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1645,
+  "title": "The Tome of Divinity",
+  "level": 12,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1646,
+  "title": "The Tome of Divinity",
+  "level": 12,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 1647,
+  "title": "The Tome of Divinity",
+  "level": 12,
+  "reason": "behind quest 1646 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1648,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1647 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1649,
+  "title": "The Tome of Valor",
+  "level": 20,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 1650,
+  "title": "The Tome of Valor",
+  "level": 23,
+  "reason": "behind quest 1649 (The Tome of Valor), itself left out"
+ },
+ {
+  "id": 1651,
+  "title": "The Tome of Valor",
+  "level": 25,
+  "reason": "behind quest 1650 (The Tome of Valor), itself left out"
+ },
+ {
+  "id": 1652,
+  "title": "The Tome of Valor",
+  "level": 25,
+  "reason": "behind quest 1651 (The Tome of Valor), itself left out"
+ },
+ {
+  "id": 1653,
+  "title": "The Test of Righteousness",
+  "level": 21,
+  "reason": "behind quest 1652 (The Tome of Valor), itself left out"
+ },
+ {
+  "id": 1654,
+  "title": "The Test of Righteousness",
+  "level": 22,
+  "reason": "behind quest 1653 (The Test of Righteousness), itself left out"
+ },
+ {
+  "id": 1655,
+  "title": "Bailor's Ore Shipment",
+  "level": 22,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1659,
+  "title": "<UNUSED>",
+  "level": 30,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1660,
+  "title": "<UNUSED>",
+  "level": 30,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 1714,
+  "title": "Essence of the Exile",
+  "level": 37,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1778,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1648 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1779,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1778 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1780,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1644 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1781,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1780 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1783,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1779 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1784,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1783 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1785,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1784 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1786,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1781 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1787,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1786 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1788,
+  "title": "The Tome of Divinity",
+  "level": 13,
+  "reason": "behind quest 1787 (The Tome of Divinity), itself left out"
+ },
+ {
+  "id": 1789,
+  "title": "The Symbol of Life",
+  "level": 12,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1790,
+  "title": "The Symbol of Life",
+  "level": 12,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1793,
+  "title": "The Tome of Valor",
+  "level": 20,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1794,
+  "title": "The Tome of Valor",
+  "level": 20,
+  "reason": "repeatable"
+ },
+ {
+  "id": 1806,
+  "title": "The Test of Righteousness",
+  "level": 22,
+  "reason": "behind quest 1654 (The Test of Righteousness), itself left out"
+ },
+ {
+  "id": 1878,
+  "title": "Water Pouch Bounty",
+  "level": 44,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2178,
+  "title": "Easy Strider Living",
+  "level": 12,
+  "reason": "profession"
+ },
+ {
+  "id": 2501,
+  "title": "Badlands Reagent Run II",
+  "level": 44,
+  "reason": "profession"
+ },
+ {
+  "id": 2522,
+  "title": "Kum'isha's Endeavors",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2523,
+  "title": "Corrupted Songflower",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 2582,
+  "title": "Rage of Ages",
+  "level": 50,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2584,
+  "title": "Spirit of the Boar",
+  "level": 50,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2586,
+  "title": "Salt of the Scorpok",
+  "level": 50,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2602,
+  "title": "Infallible Mind",
+  "level": 50,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2604,
+  "title": "Spiritual Domination",
+  "level": 50,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2747,
+  "title": "An Extraordinary Egg",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2748,
+  "title": "A Fine Egg",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2749,
+  "title": "An Ordinary Egg",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2750,
+  "title": "A Bad Egg",
+  "level": 47,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2758,
+  "title": "The Origins of Smithing",
+  "level": 40,
+  "reason": "profession"
+ },
+ {
+  "id": 2759,
+  "title": "In Search of Galvan",
+  "level": 40,
+  "reason": "profession"
+ },
+ {
+  "id": 2760,
+  "title": "The Mithril Order",
+  "level": 40,
+  "reason": "profession"
+ },
+ {
+  "id": 2761,
+  "title": "Smelt On, Smelt Off",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2762,
+  "title": "The Great Silver Deceiver",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2763,
+  "title": "The Art of the Imbue",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2764,
+  "title": "Galvan's Finest Pupil",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2765,
+  "title": "Expert Blacksmith!",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2771,
+  "title": "A Good Head On Your Shoulders",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2772,
+  "title": "The World At Your Feet",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2773,
+  "title": "The Mithril Kid",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2847,
+  "title": "Wild Leather Armor",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2848,
+  "title": "Wild Leather Shoulders",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2849,
+  "title": "Wild Leather Vest",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2850,
+  "title": "Wild Leather Helmet",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2851,
+  "title": "Wild Leather Boots",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2852,
+  "title": "Wild Leather Leggings",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2853,
+  "title": "Master of the Wild Leather",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 2868,
+  "title": "<TXT> The Shriveled Heart",
+  "level": 50,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 2876,
+  "title": "Ship Schedules",
+  "level": 45,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 2878,
+  "title": "Corrupted Songflower",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 2881,
+  "title": "Troll Necklace Bounty",
+  "level": 45,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2882,
+  "title": "Cuergo's Gold",
+  "level": 45,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 2953,
+  "title": "More Sparklematic Action",
+  "level": 30,
+  "reason": "repeatable"
+ },
+ {
+  "id": 2971,
+  "title": "<UNUSED>",
+  "level": 32,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3064,
+  "title": "<NYI> <TXT> Pirate Hats",
+  "level": 45,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3111,
+  "title": "Glyphic Rune",
+  "level": 1,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 3241,
+  "title": "<NYI> <TXT><redux> Dreadmist Peak",
+  "level": 11,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3321,
+  "title": "Did You Lose This?",
+  "level": 50,
+  "reason": "profession"
+ },
+ {
+  "id": 3363,
+  "title": "Corrupted Songflower",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 3366,
+  "title": "The Glowing Shard",
+  "level": 25,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 3375,
+  "title": "Replacement Phial",
+  "level": 42,
+  "reason": "repeatable"
+ },
+ {
+  "id": 3379,
+  "title": "Shadoweaver",
+  "level": 50,
+  "reason": "profession"
+ },
+ {
+  "id": 3381,
+  "title": "A Meeting with the Master",
+  "level": 48,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 3382,
+  "title": "A Crew Under Fire",
+  "level": 57,
+  "reason": "repeatable"
+ },
+ {
+  "id": 3383,
+  "title": "<UNUSED>",
+  "level": 55,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3384,
+  "title": "<UNUSED>",
+  "level": 55,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3385,
+  "title": "The Undermarket",
+  "level": 50,
+  "reason": "profession"
+ },
+ {
+  "id": 3401,
+  "title": "<UNUSED>",
+  "level": 48,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3402,
+  "title": "The Undermarket",
+  "level": 50,
+  "reason": "profession"
+ },
+ {
+  "id": 3403,
+  "title": "<UNUSED>",
+  "level": 48,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3404,
+  "title": "<UNUSED>",
+  "level": 48,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3405,
+  "title": "<UNUSED>",
+  "level": 48,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3421,
+  "title": "Return Trip",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 3422,
+  "title": "<UNUSED>",
+  "level": 45,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3423,
+  "title": "<UNUSED>",
+  "level": 45,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3424,
+  "title": "<UNUSED>",
+  "level": 45,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3425,
+  "title": "<UNUSED>",
+  "level": 48,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3482,
+  "title": "<NYI> <TXT> The Pocked Black Box",
+  "level": 35,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3483,
+  "title": "Signal for Pickup",
+  "level": 52,
+  "reason": "repeatable"
+ },
+ {
+  "id": 3502,
+  "title": "One Draenei's Junk...",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 3503,
+  "title": "Meeting with the Master",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 3515,
+  "title": "<UNUSED>",
+  "level": 42,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3516,
+  "title": "<UNUSED>",
+  "level": 10,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3529,
+  "title": "<UNUSED>",
+  "level": 52,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3567,
+  "title": "To the Top",
+  "level": 25,
+  "reason": "repeatable"
+ },
+ {
+  "id": 3622,
+  "title": "<UNUSED>",
+  "level": 41,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3629,
+  "title": "Goblin Engineering",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3630,
+  "title": "Gnome Engineering",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3632,
+  "title": "Gnome Engineering",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3633,
+  "title": "Goblin Engineering",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3634,
+  "title": "Gnome Engineering",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3638,
+  "title": "The Pledge of Secrecy",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3639,
+  "title": "Show Your Work",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3640,
+  "title": "The Pledge of Secrecy",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3641,
+  "title": "Show Your Work",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3644,
+  "title": "Membership Card Renewal",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3645,
+  "title": "Membership Card Renewal",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3646,
+  "title": "Membership Card Renewal",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3647,
+  "title": "Membership Card Renewal",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 3792,
+  "title": "Morrowgrain to Feathermoon Stronghold",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 3803,
+  "title": "Morrowgrain to Darnassus",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 3861,
+  "title": "CLUCK!",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 3885,
+  "title": "<NYI> <TXT> The Gadgetzan Run",
+  "level": 55,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 3911,
+  "title": "The Last Element",
+  "level": 54,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 4041,
+  "title": "The Videre Elixir",
+  "level": 52,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4083,
+  "title": "The Spectral Chalice",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 4103,
+  "title": "Salve via Hunting",
+  "level": 55,
+  "reason": "listed by Polestar: Salve via ...: salve turn-ins (gathering or profession items), only for the corrupted plants"
+ },
+ {
+  "id": 4104,
+  "title": "Salve via Mining",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 4105,
+  "title": "Salve via Gathering",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 4106,
+  "title": "Salve via Skinning",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 4107,
+  "title": "Salve via Disenchanting",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 4113,
+  "title": "Corrupted Songflower",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4114,
+  "title": "Corrupted Songflower",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4115,
+  "title": "Corrupted Windblossom",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4116,
+  "title": "Corrupted Songflower",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4117,
+  "title": "Corrupted Whipper Root",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4118,
+  "title": "Corrupted Songflower",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4119,
+  "title": "Corrupted Night Dragon",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4161,
+  "title": "Recipe of the Kaldorei",
+  "level": 7,
+  "reason": "profession"
+ },
+ {
+  "id": 4181,
+  "title": "Goblin Engineering",
+  "level": 47,
+  "reason": "profession"
+ },
+ {
+  "id": 4221,
+  "title": "Corrupted Windblossom",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4222,
+  "title": "Corrupted Windblossom",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4295,
+  "title": "Rocknot's Ale",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4299,
+  "title": "<NYI> <TXT>The Tomb of the Seven",
+  "level": 50,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 4323,
+  "title": "<NYI> <TXT> Get those Hyenas!!!",
+  "level": 26,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 4343,
+  "title": "Corrupted Windblossom",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4381,
+  "title": "Crystal Restore",
+  "level": 53,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4382,
+  "title": "Crystal Force",
+  "level": 53,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4383,
+  "title": "Crystal Ward",
+  "level": 53,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4384,
+  "title": "Crystal Yield",
+  "level": 53,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4385,
+  "title": "Crystal Charge",
+  "level": 53,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4386,
+  "title": "Crystal Spire",
+  "level": 53,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4401,
+  "title": "Corrupted Songflower",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4403,
+  "title": "Corrupted Windblossom",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4443,
+  "title": "Corrupted Whipper Root",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4444,
+  "title": "Corrupted Whipper Root",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4445,
+  "title": "Corrupted Whipper Root",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4446,
+  "title": "Corrupted Whipper Root",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4447,
+  "title": "Corrupted Night Dragon",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4448,
+  "title": "Corrupted Night Dragon",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4461,
+  "title": "Corrupted Whipper Root",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4462,
+  "title": "Corrupted Night Dragon",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4463,
+  "title": "Libram of Rumination",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4464,
+  "title": "Corrupted Songflower",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4465,
+  "title": "Corrupted Songflower",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4466,
+  "title": "Corrupted Windblossom",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4467,
+  "title": "Corrupted Windblossom",
+  "level": 55,
+  "reason": "listed by Polestar: corrupted plants: each needs a Cenarion Plant Salve (a Salve via ... turn-in item, not modelled)"
+ },
+ {
+  "id": 4481,
+  "title": "Libram of Constitution",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4482,
+  "title": "Libram of Tenacity",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4483,
+  "title": "Libram of Resilience",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4484,
+  "title": "Libram of Voracity",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4603,
+  "title": "More Sparklematic Action",
+  "level": 30,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4604,
+  "title": "More Sparklematic Action",
+  "level": 30,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4785,
+  "title": "Fine Gold Thread",
+  "level": 37,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4801,
+  "title": "Frostsaber E'ko",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4802,
+  "title": "Winterfall E'ko",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4803,
+  "title": "Shardtooth E'ko",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4804,
+  "title": "Chillwind E'ko",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4805,
+  "title": "Ice Thistle E'ko",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4806,
+  "title": "Frostmaul E'ko",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4807,
+  "title": "Wildkin E'ko",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4905,
+  "title": "<UNUSED>",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 4970,
+  "title": "Frostsaber Provisions",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 4973,
+  "title": "Counting Out Time",
+  "level": 56,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5053,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5059,
+  "title": "Locked Away",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5063,
+  "title": "Cap of the Scarlet Savant",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5067,
+  "title": "Leggings of Arcana",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5068,
+  "title": "Breastplate of Bloodthirst",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5101,
+  "title": "Lee's Ultimate Test Quest... of Doom!",
+  "level": 5,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5103,
+  "title": "Hot Fiery Death",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 5124,
+  "title": "Fiery Plate Gauntlets",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 5126,
+  "title": "Lorax's Tale",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 5127,
+  "title": "The Demon Forge",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 5141,
+  "title": "Dragonscale Leatherworking",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 5143,
+  "title": "Tribal Leatherworking",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 5144,
+  "title": "Elemental Leatherworking",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 5150,
+  "title": "Dadanga is Hungry!",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5201,
+  "title": "Winterfall Intrusion",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5205,
+  "title": "<UNUSED>",
+  "level": 49,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5207,
+  "title": "<NYI> <TXT> The True Summoner",
+  "level": 49,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5208,
+  "title": "<NYI> <TXT> The Blessing of Evil",
+  "level": 49,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5209,
+  "title": "<UNUSED>",
+  "level": 49,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5218,
+  "title": "Felstone Field Cauldron",
+  "level": 53,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5221,
+  "title": "Dalson's Tears Cauldron",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5224,
+  "title": "Writhing Haunt Cauldron",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5227,
+  "title": "Gahrron's Withering Cauldron",
+  "level": 58,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5283,
+  "title": "The Art of the Armorsmith",
+  "level": 40,
+  "reason": "profession"
+ },
+ {
+  "id": 5284,
+  "title": "The Way of the Weaponsmith",
+  "level": 40,
+  "reason": "profession"
+ },
+ {
+  "id": 5305,
+  "title": "Sweet Serenity",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 5306,
+  "title": "Snakestone of the Shadow Huntress",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 5307,
+  "title": "Corruption",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 5383,
+  "title": "Krastinov's Bag of Horrors",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 5402,
+  "title": "Minion's Scourgestones",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5403,
+  "title": "Invader's Scourgestones",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5404,
+  "title": "Corruptor's Scourgestones",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5406,
+  "title": "Corruptor's Scourgestones",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5407,
+  "title": "Invader's Scourgestones",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5408,
+  "title": "Minion's Scourgestones",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5506,
+  "title": "<UNUSED>",
+  "level": 56,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5508,
+  "title": "Corruptor's Scourgestones",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5509,
+  "title": "Invader's Scourgestones",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5510,
+  "title": "Minion's Scourgestones",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5512,
+  "title": "<UNUSED>",
+  "level": 56,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5516,
+  "title": "<UNUSED>",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5519,
+  "title": "The Gordok Ogre Suit",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5520,
+  "title": "<UNUSED>",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5523,
+  "title": "<UNUSED>",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5530,
+  "title": "<NYI> <TXT> Necklace of the Dawn",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5532,
+  "title": "<NYI> <TXT> Ring of the Dawn",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 5582,
+  "title": "Healthy Dragon Scale",
+  "level": 58,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5805,
+  "title": "Welcome!",
+  "level": 1,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 5841,
+  "title": "Welcome!",
+  "level": 1,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 5842,
+  "title": "Welcome!",
+  "level": 1,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 5882,
+  "title": "Salve via Hunting",
+  "level": 55,
+  "reason": "listed by Polestar: Salve via ...: salve turn-ins (gathering or profession items), only for the corrupted plants"
+ },
+ {
+  "id": 5883,
+  "title": "Salve via Mining",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 5884,
+  "title": "Salve via Gathering",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 5885,
+  "title": "Salve via Skinning",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 5886,
+  "title": "Salve via Disenchanting",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 5892,
+  "title": "Irondeep Supplies",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 5981,
+  "title": "Rampaging Giants",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6000,
+  "title": "Swearing to Gakin",
+  "level": 50,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 6026,
+  "title": "That's Asking A Lot",
+  "level": 58,
+  "reason": "listed by Polestar: Smokey LaRue: crafted Thorium bars and bombs (profession items)"
+ },
+ {
+  "id": 6032,
+  "title": "Sacred Cloth",
+  "level": 55,
+  "reason": "profession"
+ },
+ {
+  "id": 6041,
+  "title": "When Smokey Sings, I Get Violent",
+  "level": 58,
+  "reason": "listed by Polestar: Smokey LaRue: crafted Thorium bars and bombs (profession items)"
+ },
+ {
+  "id": 6131,
+  "title": "Timbermaw Ally",
+  "level": 48,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 6165,
+  "title": "<NYI> <TXT> Archmage Timolain's Remains",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 6201,
+  "title": "<UNUSED> The Legacy of the Ashbringer",
+  "level": 65,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 6221,
+  "title": "Deadwood of the North",
+  "level": 55,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 6241,
+  "title": "Winterfall Activity",
+  "level": 56,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 6607,
+  "title": "Nat Pagle, Angler Extreme",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 6609,
+  "title": "I Got Nothin' Left!",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 6610,
+  "title": "Clamlette Surprise",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 6612,
+  "title": "I Know A Guy...",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 6624,
+  "title": "Triage",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 6625,
+  "title": "Alliance Trauma",
+  "level": 45,
+  "reason": "profession"
+ },
+ {
+  "id": 6642,
+  "title": "Favor Amongst the Brotherhood, Dark Iron Ore",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6643,
+  "title": "Favor Amongst the Brotherhood, Fiery Core",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6644,
+  "title": "Favor Amongst the Brotherhood, Lava Core",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6645,
+  "title": "Favor Amongst the Brotherhood, Core Leather",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6646,
+  "title": "Favor Amongst the Brotherhood, Blood of the Mountain",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6661,
+  "title": "Deeprun Rat Roundup",
+  "level": 12,
+  "reason": "giver has no place in the data"
+ },
+ {
+  "id": 6662,
+  "title": "Me Brother, Nipsy",
+  "level": 12,
+  "reason": "giver has no place in the data"
+ },
+ {
+  "id": 6701,
+  "title": "Syndicate Emblems",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6781,
+  "title": "More Armor Scraps",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6841,
+  "title": "<UNUSED>",
+  "level": 55,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 6842,
+  "title": "<UNUSED>",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 6846,
+  "title": "Begin the Attack!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6848,
+  "title": "Master Ryson's All Seeing Eye",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6862,
+  "title": "Zinfizzlex's Portable Shredder Unit",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6881,
+  "title": "Ivus the Forest Lord",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6941,
+  "title": "Call of Air - Vipore's Fleet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6942,
+  "title": "Call of Air - Slidore's Fleet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6943,
+  "title": "Call of Air - Ichman's Fleet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 6982,
+  "title": "Coldtooth Supplies",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7026,
+  "title": "Ram Riding Harnesses",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7027,
+  "title": "Empty Stables",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7069,
+  "title": "<UNUSED>",
+  "level": null,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 7202,
+  "title": "Korrak the Bloodrager",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7221,
+  "title": "Speak with Prospector Stonehewer",
+  "level": 60,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 7342,
+  "title": "Arrows Are For Sissies",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7364,
+  "title": "Gnomeregan Bounty",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7365,
+  "title": "Staghelm's Requiem",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7366,
+  "title": "The Archbishop's Mercy",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7382,
+  "title": "Korrak the Everliving",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7386,
+  "title": "Crystal Cluster",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7424,
+  "title": "What the Hoof?",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7425,
+  "title": "Staghelm's Mojo Jamboree",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7426,
+  "title": "One Man's Love",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7428,
+  "title": "Wanted: MORE ORCS!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7429,
+  "title": "Free Knot!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7483,
+  "title": "Libram of Rapidity",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7484,
+  "title": "Libram of Focus",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7485,
+  "title": "Libram of Protection",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7487,
+  "title": "Attunement to the Core",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 7497,
+  "title": "The Journey Has Just Begun",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7521,
+  "title": "Thunderaan the Windseeker",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 7649,
+  "title": "Enchanted Thorium Platemail: Volume I",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7650,
+  "title": "Enchanted Thorium Platemail: Volume II",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7651,
+  "title": "Enchanted Thorium Platemail: Volume III",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7652,
+  "title": "A Blue Light Bargain",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7653,
+  "title": "Imperial Plate Belt",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7654,
+  "title": "Imperial Plate Boots",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7655,
+  "title": "Imperial Plate Bracer",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7656,
+  "title": "Imperial Plate Chest",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7657,
+  "title": "Imperial Plate Helm",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7658,
+  "title": "Imperial Plate Leggings",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7659,
+  "title": "Imperial Plate Shoulders",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 7666,
+  "title": "Again Into the Great Ossuary",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7671,
+  "title": "Frostsaber Replacement",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7672,
+  "title": "Nightsaber Replacement",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7673,
+  "title": "Frost Ram Exchange",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7674,
+  "title": "Black Ram Exchange",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7675,
+  "title": "Icy Blue Mechanostrider Replacement",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7676,
+  "title": "White Mechanostrider Replacement",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7677,
+  "title": "White Stallion Exchange",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7678,
+  "title": "Palomino Exchange",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7681,
+  "title": "Hunter test quest",
+  "level": 10,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 7682,
+  "title": "Hunter test quest2",
+  "level": 10,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 7725,
+  "title": "Again With the Zapped Giants",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7726,
+  "title": "Refuel for the Zapping",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7735,
+  "title": "Pristine Yeti Hide",
+  "level": 48,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7736,
+  "title": "Restoring Fiery Flux Supplies via Kingsblood",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7737,
+  "title": "Gaining Acceptance",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7788,
+  "title": "Vanquish the Invaders!",
+  "level": 25,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7790,
+  "title": "REUSE",
+  "level": null,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 7796,
+  "title": "Additional Runecloth",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7797,
+  "title": "Dimensional Ripper - Everlook",
+  "level": 1,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 7801,
+  "title": "Additional Runecloth",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7806,
+  "title": "Additional Runecloth",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7812,
+  "title": "Additional Runecloth",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7838,
+  "title": "Arena Grandmaster",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7871,
+  "title": "Vanquish the Invaders!",
+  "level": 35,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7872,
+  "title": "Vanquish the Invaders!",
+  "level": 45,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7873,
+  "title": "Vanquish the Invaders!",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7881,
+  "title": "Carnival Boots",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7882,
+  "title": "Carnival Jerkins",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7883,
+  "title": "The World's Largest Gnome!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7884,
+  "title": "Crocolisk Boy and the Bearded Murloc",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7885,
+  "title": "Armor Kits",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7886,
+  "title": "Talismans of Merit",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7887,
+  "title": "Talismans of Merit",
+  "level": 35,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7888,
+  "title": "Talismans of Merit",
+  "level": 45,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7889,
+  "title": "Coarse Weightstone",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7890,
+  "title": "Heavy Grinding Stone",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7891,
+  "title": "Green Iron Bracers",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7892,
+  "title": "Big Black Mace",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7893,
+  "title": "Rituals of Strength",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7894,
+  "title": "Copper Modulator",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7895,
+  "title": "Whirring Bronze Gizmo",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7896,
+  "title": "Green Fireworks",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7897,
+  "title": "Mechanical Repair Kits",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7898,
+  "title": "Thorium Widget",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7899,
+  "title": "Small Furry Paws",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7900,
+  "title": "Torn Bear Pelts",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7901,
+  "title": "Soft Bushy Tails",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7902,
+  "title": "Vibrant Plumes",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7903,
+  "title": "Evil Bat Eyes",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7904,
+  "title": "<UNUSED>",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 7907,
+  "title": "Darkmoon Beast Deck",
+  "level": 55,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 7908,
+  "title": "Arena Master",
+  "level": 55,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 7921,
+  "title": "Talismans of Merit",
+  "level": 25,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7927,
+  "title": "Darkmoon Portals Deck",
+  "level": 55,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 7928,
+  "title": "Darkmoon Warlords Deck",
+  "level": 55,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 7929,
+  "title": "Darkmoon Elementals Deck",
+  "level": 55,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 7930,
+  "title": "5 Tickets - Darkmoon Flower",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7931,
+  "title": "5 Tickets - Minor Darkmoon Prize",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7932,
+  "title": "12 Tickets - Lesser Darkmoon Prize",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7933,
+  "title": "40 Tickets - Greater Darkmoon Prize",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7934,
+  "title": "50 Tickets - Darkmoon Storage Box",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7935,
+  "title": "10 Tickets - Last Month's Mutton",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7936,
+  "title": "50 Tickets - Last Year's Mutton",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7937,
+  "title": "Your Fortune Awaits You...",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 7938,
+  "title": "Your Fortune Awaits You...",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 7939,
+  "title": "More Dense Grinding Stones",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7940,
+  "title": "1200 Tickets - Orb of the Darkmoon",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7941,
+  "title": "More Armor Kits",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7942,
+  "title": "More Thorium Widgets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7943,
+  "title": "More Bat Eyes",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7944,
+  "title": "Your Fortune Awaits You...",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 7945,
+  "title": "Your Fortune Awaits You...",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 7946,
+  "title": "Spawn of Jubjub",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 7961,
+  "title": "Waskily Wabbits!",
+  "level": 1,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 7962,
+  "title": "Wabbit Pelts",
+  "level": 1,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 7981,
+  "title": "1200 Tickets - Amulet of the Darkmoon",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8001,
+  "title": "Zombie Cleansing",
+  "level": 3,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8021,
+  "title": "Redeem iCoke Prize Voucher",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8022,
+  "title": "Redeem iCoke Prize Voucher",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8023,
+  "title": "Redeem iCoke Prize Voucher",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8024,
+  "title": "Redeem iCoke Prize Voucher",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8025,
+  "title": "Redeem iCoke Prize Voucher",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8026,
+  "title": "Redeem iCoke Prize Voucher",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8081,
+  "title": "More Resource Crates",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8157,
+  "title": "More Resource Crates",
+  "level": 45,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8158,
+  "title": "More Resource Crates",
+  "level": 25,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8159,
+  "title": "More Resource Crates",
+  "level": 35,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8184,
+  "title": "Presence of Might",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8185,
+  "title": "Syncretist's Sigil",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8186,
+  "title": "Death's Embrace",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8187,
+  "title": "Falcon's Call",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8189,
+  "title": "Presence of Sight",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8190,
+  "title": "Hoodoo Hex",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8191,
+  "title": "Prophetic Aura",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8192,
+  "title": "Animist's Caress",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8193,
+  "title": "Master Angler",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8194,
+  "title": "Apprentice Angler",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8195,
+  "title": "Zulian, Razzashi, and Hakkari Coins",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8196,
+  "title": "Essence Mangoes",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8221,
+  "title": "Rare Fish - Keefer's Angelfish",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8222,
+  "title": "Glowing Scorpid Blood",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8223,
+  "title": "More Glowing Scorpid Blood",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8224,
+  "title": "Rare Fish - Dezian Queenfish",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8225,
+  "title": "Rare Fish - Brownell's Blue Striped Racer",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8229,
+  "title": "Could I get a Fishing Flier?",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 8237,
+  "title": "REUSE",
+  "level": 50,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8238,
+  "title": "Gurubashi, Vilebranch, and Witherbark Coins",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8239,
+  "title": "Sandfury, Skullsplitter, and Bloodscalp Coins",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8241,
+  "title": "Restoring Fiery Flux Supplies via Iron",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8242,
+  "title": "Restoring Fiery Flux Supplies via Heavy Leather",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8243,
+  "title": "Zanza's Potent Potables",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8246,
+  "title": "Signets of the Zandalar",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8249,
+  "title": "Junkboxes Needed",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8259,
+  "title": "A More Fitting Reward",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8274,
+  "title": "Test Kill Quest",
+  "level": 5,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8289,
+  "title": "Talismans of Merit",
+  "level": 15,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8290,
+  "title": "Vanquish the Invaders",
+  "level": 15,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 8291,
+  "title": "Vanquish the Invaders!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8292,
+  "title": "Talismans of Merit",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8298,
+  "title": "More Resource Crates",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8302,
+  "title": "The Hand of the Righteous",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8307,
+  "title": "Desert Recipe",
+  "level": 57,
+  "reason": "profession"
+ },
+ {
+  "id": 8313,
+  "title": "Sharing the Knowledge",
+  "level": 57,
+  "reason": "profession"
+ },
+ {
+  "id": 8317,
+  "title": "Kitchen Assistance",
+  "level": 57,
+  "reason": "profession"
+ },
+ {
+  "id": 8319,
+  "title": "Encrypted Twilight Texts",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8324,
+  "title": "Still Believing",
+  "level": 59,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8333,
+  "title": "Medallion of Station",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8342,
+  "title": "Twilight Ring of Lordship",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8353,
+  "title": "Chicken Clucking for a Mint",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8355,
+  "title": "Incoming Gumdrop",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8356,
+  "title": "Flexing for Nougat",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8357,
+  "title": "Dancing for Marzipan",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8362,
+  "title": "Abyssal Crests",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8363,
+  "title": "Abyssal Signets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8364,
+  "title": "Abyssal Scepters",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8383,
+  "title": "Remember Alterac Valley!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8384,
+  "title": "Claiming Arathi Basin",
+  "level": 29,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8385,
+  "title": "Concerted Efforts",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8386,
+  "title": "Fight for Warsong Gulch",
+  "level": 19,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8391,
+  "title": "Claiming Arathi Basin",
+  "level": 39,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8392,
+  "title": "Claiming Arathi Basin",
+  "level": 49,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8397,
+  "title": "Claiming Arathi Basin",
+  "level": 59,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8398,
+  "title": "Claiming Arathi Basin",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8404,
+  "title": "Fight for Warsong Gulch",
+  "level": 29,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8405,
+  "title": "Fight for Warsong Gulch",
+  "level": 39,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8406,
+  "title": "Fight for Warsong Gulch",
+  "level": 49,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8407,
+  "title": "Fight for Warsong Gulch",
+  "level": 59,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8408,
+  "title": "Fight for Warsong Gulch",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8444,
+  "title": "<NYI> <TXT> gossip shade of ambermoon",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 8445,
+  "title": "<NYI> <TXT> gossip shade of ambermoon",
+  "level": 58,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 8458,
+  "title": "<UNUSED>",
+  "level": 33,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 8459,
+  "title": "<UNUSED>",
+  "level": 1,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 8466,
+  "title": "Feathers for Grazle",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8467,
+  "title": "Feathers for Nafien",
+  "level": 55,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8469,
+  "title": "Beads for Salfa",
+  "level": 56,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8493,
+  "title": "The Alliance Needs More Copper Bars!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8495,
+  "title": "The Alliance Needs More Iron Bars!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8496,
+  "title": "Bandages for the Field",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8497,
+  "title": "Desert Survival Kits",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8498,
+  "title": "Twilight Battle Orders",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8500,
+  "title": "The Alliance Needs More Thorium Bars!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8501,
+  "title": "Target: Hive'Ashi Stingers",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8502,
+  "title": "Target: Hive'Ashi Workers",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8504,
+  "title": "The Alliance Needs More Stranglekelp!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8506,
+  "title": "The Alliance Needs More Purple Lotus!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8507,
+  "title": "Field Duty",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8508,
+  "title": "Field Duty Papers",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8510,
+  "title": "The Alliance Needs More Arthas' Tears!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8512,
+  "title": "The Alliance Needs Light Leather!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8514,
+  "title": "The Alliance Needs More Medium Leather!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8516,
+  "title": "The Alliance Needs More Thick Leather!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8518,
+  "title": "The Alliance Needs More Linen Bandages!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8521,
+  "title": "The Alliance Needs More Silk Bandages!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8523,
+  "title": "The Alliance Needs More Runecloth Bandages!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8525,
+  "title": "The Alliance Needs More Rainbow Fin Albacore!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8527,
+  "title": "The Alliance Needs More Roast Raptor!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8529,
+  "title": "The Alliance Needs More Spotted Yellowtail!",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8530,
+  "title": "The Alliance Needs Singed Corestones!",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8534,
+  "title": "Hive'Zora Scout Report",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8535,
+  "title": "Hoary Templar",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8536,
+  "title": "Earthen Templar",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8537,
+  "title": "Crimson Templar",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8538,
+  "title": "The Four Dukes",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8539,
+  "title": "Target: Hive'Zora Hive Sisters",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8540,
+  "title": "Boots for the Guard",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8541,
+  "title": "Grinding Stones for the Guard",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8544,
+  "title": "Conqueror's Spaulders",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8548,
+  "title": "Volunteer's Battlegear",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8559,
+  "title": "Conqueror's Greaves",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8560,
+  "title": "Conqueror's Legguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8561,
+  "title": "Conqueror's Crown",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8562,
+  "title": "Conqueror's Breastplate",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8572,
+  "title": "Veteran's Battlegear",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8573,
+  "title": "Champion's Battlegear",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8574,
+  "title": "Stalwart's Battlegear",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8592,
+  "title": "Tiara of the Oracle",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8593,
+  "title": "Trousers of the Oracle",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8594,
+  "title": "Mantle of the Oracle",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8595,
+  "title": "Mortal Champions",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8596,
+  "title": "Footwraps of the Oracle",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8603,
+  "title": "Vestments of the Oracle",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8617,
+  "title": "The Horde Needs Singed Corestones!",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8619,
+  "title": "Morndeep the Elder",
+  "level": 60,
+  "reason": "giver has no place in the data"
+ },
+ {
+  "id": 8625,
+  "title": "Enigma Shoulderpads",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8626,
+  "title": "Striker's Footguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8627,
+  "title": "Avenger's Breastplate",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8628,
+  "title": "Avenger's Crown",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8629,
+  "title": "Avenger's Legguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8630,
+  "title": "Avenger's Pauldrons",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8631,
+  "title": "Enigma Leggings",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8632,
+  "title": "Enigma Circlet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8633,
+  "title": "Enigma Robes",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8634,
+  "title": "Enigma Boots",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8637,
+  "title": "Deathdealer's Boots",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8638,
+  "title": "Deathdealer's Vest",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8639,
+  "title": "Deathdealer's Helm",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8640,
+  "title": "Deathdealer's Leggings",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8641,
+  "title": "Deathdealer's Spaulders",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8644,
+  "title": "Stonefort the Elder",
+  "level": 60,
+  "reason": "giver has no place in the data"
+ },
+ {
+  "id": 8655,
+  "title": "Avenger's Greaves",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8656,
+  "title": "Striker's Hauberk",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8657,
+  "title": "Striker's Diadem",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8658,
+  "title": "Striker's Leggings",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8659,
+  "title": "Striker's Pauldrons",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8660,
+  "title": "Doomcaller's Footwraps",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8661,
+  "title": "Doomcaller's Robes",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8662,
+  "title": "Doomcaller's Circlet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8663,
+  "title": "Doomcaller's Trousers",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8664,
+  "title": "Doomcaller's Mantle",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8665,
+  "title": "Genesis Boots",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8666,
+  "title": "Genesis Vest",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8667,
+  "title": "Genesis Helm",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8668,
+  "title": "Genesis Trousers",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8669,
+  "title": "Genesis Shoulderpads",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8687,
+  "title": "Target: Hive'Zora Tunnelers",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8713,
+  "title": "Starsong the Elder",
+  "level": 60,
+  "reason": "giver has no place in the data"
+ },
+ {
+  "id": 8737,
+  "title": "Azure Templar",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8738,
+  "title": "Hive'Regal Scout Report",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8739,
+  "title": "Hive'Ashi Scout Report",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8740,
+  "title": "Twilight Marauders",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8763,
+  "title": "The Hero of the Day",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 8764,
+  "title": "The Changing of Paths - Protector No More",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8765,
+  "title": "The Changing of Paths - Invoker No More",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8766,
+  "title": "The Changing of Paths - Conqueror No More",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8770,
+  "title": "Target: Hive'Ashi Defenders",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8771,
+  "title": "Target: Hive'Ashi Sandstalkers",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8772,
+  "title": "Target: Hive'Zora Waywatchers",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8773,
+  "title": "Target: Hive'Zora Reavers",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8774,
+  "title": "Target: Hive'Regal Ambushers",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8775,
+  "title": "Target: Hive'Regal Spitfires",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8776,
+  "title": "Target: Hive'Regal Slavemakers",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8777,
+  "title": "Target: Hive'Regal Burrowers",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8778,
+  "title": "The Ironforge Brigade Needs Explosives!",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8779,
+  "title": "Scrying Materials",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8780,
+  "title": "Armor Kits for the Field",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8781,
+  "title": "Arms for the Field",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8782,
+  "title": "Uniform Supplies",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8783,
+  "title": "Extraordinary Materials",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8784,
+  "title": "Secrets of the Qiraji",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8789,
+  "title": "Imperial Qiraji Armaments",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8790,
+  "title": "Imperial Qiraji Regalia",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8798,
+  "title": "A Yeti of Your Own",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 8811,
+  "title": "One Commendation Signet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8812,
+  "title": "One Commendation Signet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8813,
+  "title": "One Commendation Signet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8814,
+  "title": "One Commendation Signet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8819,
+  "title": "Ten Commendation Signets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8820,
+  "title": "Ten Commendation Signets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8821,
+  "title": "Ten Commendation Signets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8822,
+  "title": "Ten Commendation Signets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8829,
+  "title": "The Ultimate Deception",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 8830,
+  "title": "One Commendation Signet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8831,
+  "title": "Ten Commendation Signets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8834,
+  "title": "One Commendation Signet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8835,
+  "title": "Ten Commendation Signets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8836,
+  "title": "One Commendation Signet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8837,
+  "title": "Ten Commendation Signets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8838,
+  "title": "One Commendation Signet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8839,
+  "title": "Ten Commendation Signets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8846,
+  "title": "Five Signets for War Supplies",
+  "level": 19,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8847,
+  "title": "Ten Signets for War Supplies",
+  "level": 29,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8848,
+  "title": "Fifteen Signets for War Supplies",
+  "level": 39,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8849,
+  "title": "Twenty Signets for War Supplies",
+  "level": 49,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8850,
+  "title": "Thirty Signets for War Supplies",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8856,
+  "title": "Desert Survival Kits",
+  "level": null,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 8863,
+  "title": "Festival Dumplings",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8864,
+  "title": "Festive Lunar Dresses",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8865,
+  "title": "Festive Lunar Pant Suits",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8869,
+  "title": "Sweet Serenity",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 8876,
+  "title": "Small Rockets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8877,
+  "title": "Firework Launcher",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8878,
+  "title": "Festive Recipes",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8879,
+  "title": "Large Rockets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8880,
+  "title": "Cluster Rockets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8881,
+  "title": "Large Cluster Rockets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8882,
+  "title": "Cluster Launcher",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8893,
+  "title": "The Super Egg-O-Matic",
+  "level": 47,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8971,
+  "title": "REUSE",
+  "level": 10,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8972,
+  "title": "REUSE",
+  "level": 10,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8973,
+  "title": "REUSE",
+  "level": 10,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8974,
+  "title": "REUSE",
+  "level": 10,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8975,
+  "title": "REUSE",
+  "level": 10,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8976,
+  "title": "REUSE",
+  "level": 10,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 8993,
+  "title": "Gift Giving",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 8996,
+  "title": "Return to Bodley",
+  "level": 60,
+  "reason": "giver has no place in the data"
+ },
+ {
+  "id": 8997,
+  "title": "Back to the Beginning",
+  "level": 60,
+  "reason": "behind quest 8996 (Return to Bodley), itself left out"
+ },
+ {
+  "id": 8999,
+  "title": "Saving the Best for Last",
+  "level": 60,
+  "reason": "behind quest 8997 (Back to the Beginning), itself left out"
+ },
+ {
+  "id": 9000,
+  "title": "Saving the Best for Last",
+  "level": 60,
+  "reason": "behind quest 8997 (Back to the Beginning), itself left out"
+ },
+ {
+  "id": 9001,
+  "title": "Saving the Best for Last",
+  "level": 60,
+  "reason": "behind quest 8997 (Back to the Beginning), itself left out"
+ },
+ {
+  "id": 9002,
+  "title": "Saving the Best for Last",
+  "level": 60,
+  "reason": "behind quest 8997 (Back to the Beginning), itself left out"
+ },
+ {
+  "id": 9003,
+  "title": "Saving the Best for Last",
+  "level": 60,
+  "reason": "behind quest 8997 (Back to the Beginning), itself left out"
+ },
+ {
+  "id": 9004,
+  "title": "Saving the Best for Last",
+  "level": 60,
+  "reason": "behind quest 8997 (Back to the Beginning), itself left out"
+ },
+ {
+  "id": 9005,
+  "title": "Saving the Best for Last",
+  "level": 60,
+  "reason": "behind quest 8997 (Back to the Beginning), itself left out"
+ },
+ {
+  "id": 9006,
+  "title": "Saving the Best for Last",
+  "level": 60,
+  "reason": "behind quest 8997 (Back to the Beginning), itself left out"
+ },
+ {
+  "id": 9030,
+  "title": "Anthion's Parting Words",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 9034,
+  "title": "Dreadnaught Breastplate",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9036,
+  "title": "Dreadnaught Legplates",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9037,
+  "title": "Dreadnaught Helmet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9038,
+  "title": "Dreadnaught Pauldrons",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9039,
+  "title": "Dreadnaught Sabatons",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9040,
+  "title": "Dreadnaught Gauntlets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9041,
+  "title": "Dreadnaught Waistguard",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9042,
+  "title": "Dreadnaught Bracers",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9043,
+  "title": "Redemption Tunic",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9044,
+  "title": "Redemption Legguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9045,
+  "title": "Redemption Headpiece",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9046,
+  "title": "Redemption Spaulders",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9047,
+  "title": "Redemption Boots",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9048,
+  "title": "Redemption Handguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9049,
+  "title": "Redemption Girdle",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9050,
+  "title": "Redemption Wristguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9054,
+  "title": "Cryptstalker Tunic",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9055,
+  "title": "Cryptstalker Legguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9056,
+  "title": "Cryptstalker Headpiece",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9057,
+  "title": "Cryptstalker Spaulders",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9058,
+  "title": "Cryptstalker Boots",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9059,
+  "title": "Cryptstalker Handguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9060,
+  "title": "Cryptstalker Girdle",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9061,
+  "title": "Cryptstalker Wristguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9065,
+  "title": "The \"Chow\" Quest (123)aa",
+  "level": 4,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9068,
+  "title": "Earthshatter Tunic",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9069,
+  "title": "Earthshatter Legguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9070,
+  "title": "Earthshatter Headpiece",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9071,
+  "title": "Earthshatter Spaulders",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9072,
+  "title": "Earthshatter Boots",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9073,
+  "title": "Earthshatter Handguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9074,
+  "title": "Earthshatter Girdle",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9075,
+  "title": "Earthshatter Wristguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9077,
+  "title": "Bonescythe Breastplate",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9078,
+  "title": "Bonescythe Legplates",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9079,
+  "title": "Bonescythe Helmet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9080,
+  "title": "Bonescythe Pauldrons",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9081,
+  "title": "Bonescythe Sabatons",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9082,
+  "title": "Bonescythe Gauntlets",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9083,
+  "title": "Bonescythe Waistguard",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9084,
+  "title": "Bonescythe Bracers",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9086,
+  "title": "Dreamwalker Tunic",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9087,
+  "title": "Dreamwalker Legguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9088,
+  "title": "Dreamwalker Headpiece",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9089,
+  "title": "Dreamwalker Spaulders",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9090,
+  "title": "Dreamwalker Boots",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9091,
+  "title": "Dreamwalker Handguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9092,
+  "title": "Dreamwalker Girdle",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9093,
+  "title": "Dreamwalker Wristguards",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9094,
+  "title": "Argent Dawn Gloves",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9095,
+  "title": "Frostfire Robe",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9096,
+  "title": "Frostfire Leggings",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9097,
+  "title": "Frostfire Circlet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9098,
+  "title": "Frostfire Shoulderpads",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9099,
+  "title": "Frostfire Sandals",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9100,
+  "title": "Frostfire Gloves",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9101,
+  "title": "Frostfire Belt",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9102,
+  "title": "Frostfire Bindings",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9103,
+  "title": "Plagueheart Robe",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9104,
+  "title": "Plagueheart Leggings",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9105,
+  "title": "Plagueheart Circlet",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9106,
+  "title": "Plagueheart Shoulderpads",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9107,
+  "title": "Plagueheart Sandals",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9108,
+  "title": "Plagueheart Gloves",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9109,
+  "title": "Plagueheart Belt",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9110,
+  "title": "Plagueheart Bindings",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9111,
+  "title": "Robe of Faith",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9112,
+  "title": "Leggings of Faith",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9113,
+  "title": "Circlet of Faith",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9114,
+  "title": "Shoulderpads of Faith",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9115,
+  "title": "Sandals of Faith",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9116,
+  "title": "Gloves of Faith",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9117,
+  "title": "Belt of Faith",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9118,
+  "title": "Bindings of Faith",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9124,
+  "title": "Cryptstalker Armor Doesn't Make Itself...",
+  "level": 60,
+  "reason": "listed by Polestar: Naxxramas-era Argent Dawn turn-ins at Light's Hope (patch 1.11 endgame materials)"
+ },
+ {
+  "id": 9125,
+  "title": "Crypt Fiend Parts",
+  "level": 60,
+  "reason": "listed by Polestar: Naxxramas-era Argent Dawn turn-ins at Light's Hope (patch 1.11 endgame materials)"
+ },
+ {
+  "id": 9126,
+  "title": "Bonescythe Digs",
+  "level": 60,
+  "reason": "listed by Polestar: Naxxramas-era Argent Dawn turn-ins at Light's Hope (patch 1.11 endgame materials)"
+ },
+ {
+  "id": 9127,
+  "title": "Bone Fragments",
+  "level": 60,
+  "reason": "listed by Polestar: Naxxramas-era Argent Dawn turn-ins at Light's Hope (patch 1.11 endgame materials)"
+ },
+ {
+  "id": 9128,
+  "title": "The Elemental Equation",
+  "level": 60,
+  "reason": "listed by Polestar: Naxxramas-era Argent Dawn turn-ins at Light's Hope (patch 1.11 endgame materials)"
+ },
+ {
+  "id": 9129,
+  "title": "Core of Elements",
+  "level": 60,
+  "reason": "listed by Polestar: Naxxramas-era Argent Dawn turn-ins at Light's Hope (patch 1.11 endgame materials)"
+ },
+ {
+  "id": 9131,
+  "title": "Binding the Dreadnaught",
+  "level": 60,
+  "reason": "listed by Polestar: Naxxramas-era Argent Dawn turn-ins at Light's Hope (patch 1.11 endgame materials)"
+ },
+ {
+  "id": 9132,
+  "title": "Dark Iron Scraps",
+  "level": 60,
+  "reason": "listed by Polestar: Naxxramas-era Argent Dawn turn-ins at Light's Hope (patch 1.11 endgame materials)"
+ },
+ {
+  "id": 9136,
+  "title": "Savage Flora",
+  "level": 60,
+  "reason": "listed by Polestar: Naxxramas-era Argent Dawn turn-ins at Light's Hope (patch 1.11 endgame materials)"
+ },
+ {
+  "id": 9137,
+  "title": "Savage Fronds",
+  "level": 60,
+  "reason": "listed by Polestar: Naxxramas-era Argent Dawn turn-ins at Light's Hope (patch 1.11 endgame materials)"
+ },
+ {
+  "id": 9141,
+  "title": "They Call Me \"The Rooster\"",
+  "level": 60,
+  "reason": "listed by Polestar: Naxxramas-era Argent Dawn turn-ins at Light's Hope (patch 1.11 endgame materials)"
+ },
+ {
+  "id": 9142,
+  "title": "Craftsman's Writ",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9165,
+  "title": "Writ of Safe Passage",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9178,
+  "title": "Craftsman's Writ - Dense Weightstone",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9179,
+  "title": "Craftsman's Writ - Imperial Plate Chest",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9181,
+  "title": "Craftsman's Writ - Volcanic Hammer",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9182,
+  "title": "Craftsman's Writ - Huge Thorium Battleaxe",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9183,
+  "title": "Craftsman's Writ - Radiant Circlet",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9184,
+  "title": "Craftsman's Writ - Wicked Leather Headband",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9185,
+  "title": "Craftsman's Writ - Rugged Armor Kit",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9186,
+  "title": "Craftsman's Writ - Wicked Leather Belt",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9187,
+  "title": "Craftsman's Writ - Runic Leather Pants",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9188,
+  "title": "Craftsman's Writ - Brightcloth Pants",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9190,
+  "title": "Craftsman's Writ - Runecloth Boots",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9191,
+  "title": "Craftsman's Writ - Runecloth Bag",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9194,
+  "title": "Craftsman's Writ - Runecloth Robe",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9195,
+  "title": "Craftsman's Writ - Goblin Sapper Charge",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9196,
+  "title": "Craftsman's Writ - Thorium Grenade",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9197,
+  "title": "Craftsman's Writ - Gnomish Battle Chicken",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9198,
+  "title": "Craftsman's Writ - Thorium Tube",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9200,
+  "title": "Craftsman's Writ - Major Mana Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9201,
+  "title": "Craftsman's Writ - Greater Arcane Protection Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9202,
+  "title": "Craftsman's Writ - Major Healing Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9203,
+  "title": "Craftsman's Writ - Flask of Petrification",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9204,
+  "title": "Craftsman's Writ - Stonescale Eel",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9205,
+  "title": "Craftsman's Writ - Plated Armorfish",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9206,
+  "title": "Craftsman's Writ - Lightning Eel",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 9208,
+  "title": "The Savage Guard - Arcanum of Protection",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9209,
+  "title": "The Savage Guard - Arcanum of Rapidity",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9210,
+  "title": "The Savage Guard - Arcanum of Focus",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9211,
+  "title": "The Ice Guard",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9213,
+  "title": "The Shadow Guard",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9221,
+  "title": "Superior Armaments of Battle - Friend of the Dawn",
+  "level": 60,
+  "reason": "listed by Polestar: Argent Dawn armaments: Scourge Invasion insignia and Friendly-Exalted ranks"
+ },
+ {
+  "id": 9222,
+  "title": "Epic Armaments of Battle - Friend of the Dawn",
+  "level": 60,
+  "reason": "listed by Polestar: Argent Dawn armaments: Scourge Invasion insignia and Friendly-Exalted ranks"
+ },
+ {
+  "id": 9223,
+  "title": "Superior Armaments of Battle - Honored Amongst the Dawn",
+  "level": 60,
+  "reason": "listed by Polestar: Argent Dawn armaments: Scourge Invasion insignia and Friendly-Exalted ranks"
+ },
+ {
+  "id": 9224,
+  "title": "Epic Armaments of Battle - Honored Amongst the Dawn",
+  "level": 60,
+  "reason": "listed by Polestar: Argent Dawn armaments: Scourge Invasion insignia and Friendly-Exalted ranks"
+ },
+ {
+  "id": 9225,
+  "title": "Epic Armaments of Battle - Revered Amongst the Dawn",
+  "level": 60,
+  "reason": "listed by Polestar: Argent Dawn armaments: Scourge Invasion insignia and Friendly-Exalted ranks"
+ },
+ {
+  "id": 9226,
+  "title": "Superior Armaments of Battle - Revered Amongst the Dawn",
+  "level": 60,
+  "reason": "listed by Polestar: Argent Dawn armaments: Scourge Invasion insignia and Friendly-Exalted ranks"
+ },
+ {
+  "id": 9227,
+  "title": "Superior Armaments of Battle - Exalted Amongst the Dawn",
+  "level": 60,
+  "reason": "listed by Polestar: Argent Dawn armaments: Scourge Invasion insignia and Friendly-Exalted ranks"
+ },
+ {
+  "id": 9228,
+  "title": "Epic Armaments of Battle - Exalted Amongst the Dawn",
+  "level": 60,
+  "reason": "listed by Polestar: Argent Dawn armaments: Scourge Invasion insignia and Friendly-Exalted ranks"
+ },
+ {
+  "id": 9247,
+  "title": "The Keeper's Call",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 9249,
+  "title": "40 Tickets - Schematic: Steam Tonk Controller",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 9250,
+  "title": "Frame of Atiesh",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 9251,
+  "title": "Atiesh, the Befouled Greatstaff",
+  "level": 60,
+  "reason": "behind quest 9250 (Frame of Atiesh), itself left out"
+ },
+ {
+  "id": 9257,
+  "title": "Atiesh, Greatstaff of the Guardian",
+  "level": 60,
+  "reason": "behind quest 9251 (Atiesh, the Befouled Greatstaff), itself left out"
+ },
+ {
+  "id": 9259,
+  "title": "Traitor to the Bloodsail",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9266,
+  "title": "Making Amends",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9267,
+  "title": "Mending Old Wounds",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9268,
+  "title": "War at Sea",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9269,
+  "title": "Atiesh, Greatstaff of the Guardian",
+  "level": 60,
+  "reason": "behind quest 9251 (Atiesh, the Befouled Greatstaff), itself left out"
+ },
+ {
+  "id": 9270,
+  "title": "Atiesh, Greatstaff of the Guardian",
+  "level": 60,
+  "reason": "behind quest 9251 (Atiesh, the Befouled Greatstaff), itself left out"
+ },
+ {
+  "id": 9271,
+  "title": "Atiesh, Greatstaff of the Guardian",
+  "level": 60,
+  "reason": "behind quest 9251 (Atiesh, the Befouled Greatstaff), itself left out"
+ },
+ {
+  "id": 9273,
+  "title": "Redeem iCoke Prize Voucher",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 9292,
+  "title": "Cracked Necrotic Crystal",
+  "level": 60,
+  "reason": "giver has no place in the data"
+ },
+ {
+  "id": 9296,
+  "title": "reuse",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 9297,
+  "title": "reuse",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 9298,
+  "title": "reuse",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 9317,
+  "title": "Consecrated Sharpening Stones",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9318,
+  "title": "Blessed Wizard Oil",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9321,
+  "title": "Major Healing Potion",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9324,
+  "title": "Stealing Orgrimmar's Flame",
+  "level": 60,
+  "reason": "listed by Polestar: Midsummer Fire Festival: stealing the other faction's capital flames (seasonal; no event flag in the data)"
+ },
+ {
+  "id": 9325,
+  "title": "Stealing Thunder Bluff's Flame",
+  "level": 60,
+  "reason": "listed by Polestar: Midsummer Fire Festival: stealing the other faction's capital flames (seasonal; no event flag in the data)"
+ },
+ {
+  "id": 9326,
+  "title": "Stealing the Undercity's Flame",
+  "level": 60,
+  "reason": "listed by Polestar: Midsummer Fire Festival: stealing the other faction's capital flames (seasonal; no event flag in the data)"
+ },
+ {
+  "id": 9337,
+  "title": "Major Mana Potion",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9338,
+  "title": "Allegiance to Cenarion Circle",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9341,
+  "title": "Tabard of the Argent Dawn",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9353,
+  "title": "Redeem iCoke Gift Box Voucher",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 9365,
+  "title": "A Thief's Reward",
+  "level": 60,
+  "reason": "behind quest 9324 (Stealing Orgrimmar's Flame), itself left out"
+ },
+ {
+  "id": 9378,
+  "title": "DND FLAG The Dread Citadel - Naxxramas",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9386,
+  "title": "A Light in Dark Places",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 9411,
+  "title": "<UNUSED>Infused Bandages",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9412,
+  "title": "<UNUSED>Crystal Flake Throat Lozenge",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9413,
+  "title": "<UNUSED>Crystal Flake Throat Lozenge",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9414,
+  "title": "<UNUSED>Infused Bandages",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9458,
+  "title": "<UNUSED>Potion of Heightened Senses",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9459,
+  "title": "<UNUSED>Anti-crit Potion",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9477,
+  "title": "<UNUSED>Potion of Nature's Armor",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9478,
+  "title": "<UNUSED>Portable Healing Font",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9479,
+  "title": "<UNUSED>Glorious Standard of the Alliance",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9480,
+  "title": "<UNUSED>Debuff Banner",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9481,
+  "title": "<UNUSED>Light Consumable",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9482,
+  "title": "<UNUSED>Nature Resist Potion",
+  "level": 60,
+  "reason": "placeholder, not a real quest"
+ },
+ {
+  "id": 9556,
+  "title": "To The Victor...",
+  "level": 60,
+  "reason": "only in the old database, not in the data of the game"
+ },
+ {
+  "id": 78088,
+  "title": "A Strange Artifact",
+  "level": 30,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 78307,
+  "title": "The Horn of Xelthos",
+  "level": null,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 78699,
+  "title": "The Eye of Bhossca",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 78823,
+  "title": "Terror of the Desert Skies",
+  "level": 40,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 79229,
+  "title": "Highway Robbery",
+  "level": 40,
+  "reason": "no turn-in in the data"
+ },
+ {
+  "id": 79624,
+  "title": "Anyone Can Cook",
+  "level": 40,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 80001,
+  "title": "Rekindle",
+  "level": null,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 91736,
+  "title": "Applejack Still",
+  "level": 1,
+  "reason": "repeatable"
+ },
+ {
+  "id": 91751,
+  "title": "Rough Wolf Pelts",
+  "level": 7,
+  "reason": "profession"
+ },
+ {
+  "id": 91753,
+  "title": "An Enchanting Lesson",
+  "level": 7,
+  "reason": "profession"
+ },
+ {
+  "id": 91899,
+  "title": "A Sealed Crate",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 91900,
+  "title": "A Sealed Crate",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 91901,
+  "title": "A Sealed Crate",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 91904,
+  "title": "A Sealed Crate",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 91905,
+  "title": "A Sealed Crate",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 92109,
+  "title": "My First Alchemy Set",
+  "level": 10,
+  "reason": "profession"
+ },
+ {
+  "id": 92110,
+  "title": "My First Real Potion",
+  "level": 10,
+  "reason": "profession"
+ },
+ {
+  "id": 92415,
+  "title": "Remember That I Love You",
+  "level": 22,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 92460,
+  "title": "Coming of Age",
+  "level": 1,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92461,
+  "title": "Harmony in Balance",
+  "level": 1,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92462,
+  "title": "Infestation Investigation",
+  "level": 2,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92463,
+  "title": "The Cirrusfly Queen",
+  "level": 3,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92464,
+  "title": "Elemental Unrest",
+  "level": 3,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92465,
+  "title": "Agitators",
+  "level": 3,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92469,
+  "title": "Return to Rorian",
+  "level": 4,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92470,
+  "title": "Foul Matriarch",
+  "level": 5,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92471,
+  "title": "Aetheen of the Gales",
+  "level": 4,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92472,
+  "title": "The Next Step",
+  "level": 5,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92473,
+  "title": "Aggressive Encroachment",
+  "level": 4,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92474,
+  "title": "Falling With Style",
+  "level": 2,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92481,
+  "title": "A Student of the Arcane",
+  "level": 2,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92482,
+  "title": "The Way of the Hunter",
+  "level": 2,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92483,
+  "title": "At Home in the Shadows",
+  "level": 2,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92485,
+  "title": "A Student of Nature",
+  "level": 2,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92515,
+  "title": "The Problem With Prideclaws",
+  "level": 6,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92516,
+  "title": "Hippogryph Harassment",
+  "level": 7,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92517,
+  "title": "The Criminal Element",
+  "level": 7,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92528,
+  "title": "Among the Faithful",
+  "level": 8,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92529,
+  "title": "Falaath Village",
+  "level": 8,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92532,
+  "title": "The Warrior's Path",
+  "level": 2,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92544,
+  "title": "Al'Aketh Thugs",
+  "level": 5,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92550,
+  "title": "Havoc in the Highlands",
+  "level": 8,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92551,
+  "title": "Stolen Supplies",
+  "level": 8,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92553,
+  "title": "Restocking the Larders",
+  "level": 6,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92596,
+  "title": "The High Order",
+  "level": 6,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92597,
+  "title": "Reading the Leylines",
+  "level": 4,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92640,
+  "title": "Desperate Times",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92642,
+  "title": "Disrupting Logistics",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92643,
+  "title": "The Turncoat",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92644,
+  "title": "Unfortunate News",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92645,
+  "title": "Breaking the Breaker",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92679,
+  "title": "Blood Tithe",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92682,
+  "title": "Make Yourself Useful",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92683,
+  "title": "Flutterfly Dust",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92684,
+  "title": "Ornery Ornery Galestriders",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92685,
+  "title": "The Hills Have Eyes",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92693,
+  "title": "Standing Our Ground",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92698,
+  "title": "What Is My Purpose?",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92699,
+  "title": "The Supreme Magister",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92701,
+  "title": "To Valanaar",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92703,
+  "title": "Deliver the News",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92709,
+  "title": "A Grand Adventure",
+  "level": 12,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92727,
+  "title": "The Missing Scholar",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92741,
+  "title": "Unwelcome Visitors",
+  "level": 13,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92754,
+  "title": "A New Need for Shadow Protection",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92755,
+  "title": "Mysterious Mysticism",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92811,
+  "title": "Economic Warfare",
+  "level": 60,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92814,
+  "title": "I Need a Tailor",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92817,
+  "title": "Leather Technique",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92818,
+  "title": "Big, No, MASSIVE Iron Axes",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92834,
+  "title": "Avenged Tenfold",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92840,
+  "title": "Catching Wind",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92846,
+  "title": "Outcast Necromancers",
+  "level": 40,
+  "reason": "no turn-in in the data"
+ },
+ {
+  "id": 92847,
+  "title": "Corrupting Tears",
+  "level": 42,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92849,
+  "title": "The Missing Scholar",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92850,
+  "title": "The Missing Scholar",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92860,
+  "title": "In Service of Zephras",
+  "level": 12,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92867,
+  "title": "Ground to Keep",
+  "level": 39,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92872,
+  "title": "Dutiful Steps",
+  "level": 38,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92873,
+  "title": "Proof of Concept",
+  "level": 41,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92880,
+  "title": "Return to Valanaar",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92881,
+  "title": "The High Elder's Request",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 92893,
+  "title": "No Mercy for the Weak",
+  "level": 42,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92894,
+  "title": "Bone Raising",
+  "level": 40,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 92910,
+  "title": "Harvesting the Harvesters",
+  "level": 15,
+  "reason": "profession"
+ },
+ {
+  "id": 92911,
+  "title": "Harvesting the Harvesters",
+  "level": 15,
+  "reason": "profession"
+ },
+ {
+  "id": 92947,
+  "title": "Making Our Move",
+  "level": 12,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93036,
+  "title": "Infiltrating the Cult",
+  "level": 8,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93044,
+  "title": "A Cleansing Cry",
+  "level": 38,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93058,
+  "title": "Saving Our Own",
+  "level": 42,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93062,
+  "title": "Bone Burying",
+  "level": 42,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93065,
+  "title": "Prepare for Battle",
+  "level": 12,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93066,
+  "title": "Bristleback Retreat",
+  "level": 43,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93072,
+  "title": "Long-Term Solutions",
+  "level": 43,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93089,
+  "title": "What Comes Next",
+  "level": 13,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93122,
+  "title": "Checking Things Out",
+  "level": 43,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93125,
+  "title": "Going Home",
+  "level": 43,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93129,
+  "title": "Threat of Starvation",
+  "level": 43,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93159,
+  "title": "The Strange Hermit",
+  "level": 13,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93160,
+  "title": "The Forest's Bounty",
+  "level": 13,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93165,
+  "title": "Mercy Falls on Deaf Ears",
+  "level": 13,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93172,
+  "title": "Free the Hollows",
+  "level": 13,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93188,
+  "title": "Return to Orgrul",
+  "level": 43,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93196,
+  "title": "Khan Jehn",
+  "level": 42,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93226,
+  "title": "Buying Friendship: Magram",
+  "level": 45,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93227,
+  "title": "Buying Friendship: Gelkis",
+  "level": 45,
+  "reason": "turn-in has no place in the data"
+ },
+ {
+  "id": 93317,
+  "title": "Crab Season",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93318,
+  "title": "WANTED: Vulgara the Insatiable",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93319,
+  "title": "Pilfered Windstones",
+  "level": 7,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93320,
+  "title": "Tower Defense",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93429,
+  "title": "Blood of My Blood",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93430,
+  "title": "Taking the Bait Back",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93459,
+  "title": "More Al'Aketh Ears",
+  "level": 13,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93461,
+  "title": "Welcome to Shen'dar Village",
+  "level": 6,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93464,
+  "title": "The Visiting Mage",
+  "level": 38,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93465,
+  "title": "Notes on Draenethyst",
+  "level": 40,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93552,
+  "title": "Harvesting Windstones",
+  "level": 4,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93585,
+  "title": "This Light of Mine",
+  "level": 34,
+  "reason": "no turn-in in the data"
+ },
+ {
+  "id": 93678,
+  "title": "Abridged Notes on Draenethyst",
+  "level": 40,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93791,
+  "title": "Speak with Belann",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93797,
+  "title": "Boughs in the Wind",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93835,
+  "title": "Confront Lorthuna",
+  "level": 12,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93862,
+  "title": "Crate Return",
+  "level": 60,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 93926,
+  "title": "The Western Watch",
+  "level": 8,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93927,
+  "title": "A Last Request",
+  "level": 8,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93948,
+  "title": "Deliver the Signet",
+  "level": 9,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93949,
+  "title": "Bugged",
+  "level": 8,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93951,
+  "title": "A Little Beauty",
+  "level": 7,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 93958,
+  "title": "The Inner Sanctum",
+  "level": 12,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94003,
+  "title": "The Skybreaker Bulwark",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94004,
+  "title": "Craftsman's Writ: Elixir of Ogre's Strength",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94006,
+  "title": "The Great Ursera Spirit",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94007,
+  "title": "Taming the Beast",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94013,
+  "title": "Taming the Beast",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94050,
+  "title": "Training the Beast",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94214,
+  "title": "Craftsman's Writ: Shadow Protection Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94215,
+  "title": "Craftsman's Writ: Free Action Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94217,
+  "title": "Craftsman's Writ: Lesser Troll's Blood Elixir",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94218,
+  "title": "Craftsman's Writ: Elixir of Defense",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94219,
+  "title": "Craftsman's Writ: Draught of Water Breathing",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94220,
+  "title": "Craftsman's Writ: Pearl-Handled Dagger",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94221,
+  "title": "Craftsman's Writ: Golden Rod",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94222,
+  "title": "Craftsman's Writ: Iridescent Hammer",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94223,
+  "title": "Craftsman's Writ: Silver Skeleton Key",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94224,
+  "title": "Craftsman's Writ: Heavy Bronze Mace",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94225,
+  "title": "Craftsman's Writ: Rough Bronze Leggings",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94226,
+  "title": "Craftsman's Writ: Green Iron Gauntlets",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94227,
+  "title": "Craftsman's Writ: Big Bronze Knife",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94228,
+  "title": "Craftsman's Writ: Green Iron Boots",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94229,
+  "title": "Craftsman's Writ: Ornate Spyglass",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94230,
+  "title": "Craftsman's Writ: Explosive Sheep",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94231,
+  "title": "Craftsman's Writ: Moonsight Rifle",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94232,
+  "title": "Craftsman's Writ: Minor Recombobulator",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94233,
+  "title": "Craftsman's Writ: Practice Lock",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94234,
+  "title": "Craftsman's Writ: Shadow Goggles",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94235,
+  "title": "Craftsman's Writ: Gnomish Universal Remote",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94236,
+  "title": "Craftsman's Writ: Big Bronze Bomb",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94237,
+  "title": "Craftsman's Writ: Crafted Solid Shot",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94238,
+  "title": "Craftsman's Writ: Heavy Leather Ball",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94239,
+  "title": "Craftsman's Writ: Fine Leather Pants",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94240,
+  "title": "Craftsman's Writ: Herbalist's Gloves",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94242,
+  "title": "Craftsman's Writ: Pilferer's Gloves",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94243,
+  "title": "Craftsman's Writ: Heavy Quiver",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94244,
+  "title": "Craftsman's Writ: Dark Leather Shoulders",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94245,
+  "title": "Craftsman's Writ: Barbaric Gloves",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94246,
+  "title": "Craftsman's Writ: Red Whelp Gloves",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94247,
+  "title": "Craftsman's Writ: Lesser Wizard's Robe",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94248,
+  "title": "Craftsman's Writ: Blue Overalls",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94249,
+  "title": "Craftsman's Writ: Azure Silk Hood",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94250,
+  "title": "Craftsman's Writ: Small Silk Pack",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94251,
+  "title": "Craftsman's Writ: Phoenix Pants",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94252,
+  "title": "Craftsman's Writ: Red Woolen Boots",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94253,
+  "title": "Craftsman's Writ: Colorful Kilt",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94254,
+  "title": "Craftsman's Writ: Greater Adept's Robe",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94255,
+  "title": "Craftsman's Writ: Spider Silk Slippers",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94256,
+  "title": "Craftsman's Writ: Frost Protection Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94257,
+  "title": "Craftsman's Writ: Lesser Invisibility Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94258,
+  "title": "Craftsman's Writ: Lesser Stoneshield Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94259,
+  "title": "Craftsman's Writ: Nature Protection Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94260,
+  "title": "Craftsman's Writ: Catseye Draught",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94261,
+  "title": "Craftsman's Writ: Great Rage Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94262,
+  "title": "Craftsman's Writ: Mana Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94263,
+  "title": "Craftsman's Writ: Fire Protection Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94264,
+  "title": "Craftsman's Writ: Shadow Oil",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94265,
+  "title": "Craftsman's Writ: Goblin Rocket Fuel",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94266,
+  "title": "Craftsman's Writ: Elixir of Agility",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94267,
+  "title": "Craftsman's Writ: Wildvine Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94268,
+  "title": "Craftsman's Writ: Steel Plate Helm",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94269,
+  "title": "Craftsman's Writ: Inlaid Mithril Cylinder",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94270,
+  "title": "Craftsman's Writ: Steel Weapon Chain",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94271,
+  "title": "Craftsman's Writ: Ornate Mithril Shoulders",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94272,
+  "title": "Craftsman's Writ: Blue Glittering Axe",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94273,
+  "title": "Craftsman's Writ: Moonsteel Broadsword",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94274,
+  "title": "Craftsman's Writ: Golden Scale Coif",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94275,
+  "title": "Craftsman's Writ: Solid Sharpening Stone",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94276,
+  "title": "Craftsman's Writ: Wicked Mithril Blade",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94277,
+  "title": "Craftsman's Writ: Truesilver Rod",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94278,
+  "title": "Craftsman's Writ: Golden Scale Gauntlets",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94279,
+  "title": "Craftsman's Writ: Heavy Mithril Axe",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94280,
+  "title": "Craftsman's Writ: Mechanical Dragonling",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94281,
+  "title": "Craftsman's Writ: Advanced Target Dummy",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94282,
+  "title": "Craftsman's Writ: Craftsman's Monocle",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94283,
+  "title": "Craftsman's Writ: Goblin Land Mine",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94284,
+  "title": "Craftsman's Writ: Catseye Ultra Goggles",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94285,
+  "title": "Craftsman's Writ: Unstable Trigger",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94286,
+  "title": "Craftsman's Writ: Flash Bomb",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94287,
+  "title": "Craftsman's Writ: Fire Goggles",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94288,
+  "title": "Craftsman's Writ: Mithril Frag Bomb",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94289,
+  "title": "Craftsman's Writ: Gyromatic Micro-Adjuster",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94290,
+  "title": "Craftsman's Writ: Mechanical Repair Kit",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94291,
+  "title": "Craftsman's Writ: Dark Iron Bomb",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94292,
+  "title": "Craftsman's Writ: Comfortable Leather Hat",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94293,
+  "title": "Craftsman's Writ: Guardian Cloak",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94294,
+  "title": "Craftsman's Writ: Dusky Bracers",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94295,
+  "title": "Craftsman's Writ: Wild Leather Helmet",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94296,
+  "title": "Craftsman's Writ: Wild Leather Shoulders",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94297,
+  "title": "Craftsman's Writ: Quickdraw Quiver",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94298,
+  "title": "Craftsman's Writ: Swift Boots",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94299,
+  "title": "Craftsman's Writ: Nightscape Shoulders",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94300,
+  "title": "Craftsman's Writ: Big Voodoo Mask",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94301,
+  "title": "Craftsman's Writ: Big Voodoo Robe",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94302,
+  "title": "Craftsman's Writ: Turtle Scale Breastplate",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94303,
+  "title": "Craftsman's Writ: Thick Leather Ammo Pouch",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94304,
+  "title": "Craftsman's Writ: Mageweave Bag",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94305,
+  "title": "Craftsman's Writ: Shadoweave Gloves",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94306,
+  "title": "Craftsman's Writ: Crimson Silk Robe",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94307,
+  "title": "Craftsman's Writ: Shadoweave Robe",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94308,
+  "title": "Craftsman's Writ: Enchanted Mageweave Pouch",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94309,
+  "title": "Craftsman's Writ: Star Belt",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94310,
+  "title": "Craftsman's Writ: Black Mageweave Vest",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94311,
+  "title": "Craftsman's Writ: Red Mageweave Pants",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94312,
+  "title": "Craftsman's Writ: Orange Martial Shirt",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94313,
+  "title": "Craftsman's Writ: White Bandit Mask",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94314,
+  "title": "Craftsman's Writ: Cindercloth Robe",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94315,
+  "title": "Craftsman's Writ: Earthen Silk Belt",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94316,
+  "title": "Craftsman's Writ: Potion of Demonslaying",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94317,
+  "title": "Craftsman's Writ: Dreamless Sleep Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94318,
+  "title": "Craftsman's Writ: Greater Fire Protection Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94319,
+  "title": "Craftsman's Writ: Draught of Detect Demon",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94320,
+  "title": "Craftsman's Writ: Gift of Arthas",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94321,
+  "title": "Craftsman's Writ: Flask of Chromatic Resistance",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94322,
+  "title": "Craftsman's Writ: Limited Invulnerability Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94323,
+  "title": "Craftsman's Writ: Major Rejuvenation Potion",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94324,
+  "title": "Craftsman's Writ: Distilled Firewater",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94325,
+  "title": "Craftsman's Writ: Radiant Circlet",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94326,
+  "title": "Craftsman's Writ: Radiant Belt",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94327,
+  "title": "Craftsman's Writ: Orcish War Leggings",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94328,
+  "title": "Craftsman's Writ: Mithril Spurs",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94329,
+  "title": "Craftsman's Writ: Imperial Plate Chest",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94330,
+  "title": "Craftsman's Writ: Darkrune Gauntlets",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94331,
+  "title": "Craftsman's Writ: Huge Thorium Battleaxe",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94332,
+  "title": "Craftsman's Writ: Arcanite Skeleton Key",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94333,
+  "title": "Craftsman's Writ: Ebon Shiv",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94334,
+  "title": "Craftsman's Writ: Masterwork Target Dummy",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94335,
+  "title": "Craftsman's Writ: Green Lens",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94336,
+  "title": "Craftsman's Writ: Lifelike Mechanical Toad",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94337,
+  "title": "Craftsman's Writ: Gnomish Alarm-O-Bot",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94338,
+  "title": "Craftsman's Writ: Goblin Jumper Cables XL",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94339,
+  "title": "Craftsman's Writ: Field Repair Bot 74A",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94340,
+  "title": "Craftsman's Writ: Truesilver Transformer",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94341,
+  "title": "Craftsman's Writ: Sniper Scope",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94342,
+  "title": "Craftsman's Writ: Tranquil Mechanical Yeti",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94343,
+  "title": "Craftsman's Writ: Wicked Leather Pants",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94344,
+  "title": "Craftsman's Writ: Gordok Ogre Suit",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94345,
+  "title": "Craftsman's Writ: Volcanic Breastplate",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94346,
+  "title": "Craftsman's Writ: Runic Leather Headband",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94347,
+  "title": "Craftsman's Writ: Wicked Leather Bracers",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94348,
+  "title": "Craftsman's Writ: Chimeric Vest",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94349,
+  "title": "Craftsman's Writ: Heavy Scorpid Helm",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94350,
+  "title": "Craftsman's Writ: Runic Leather Bracers",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94351,
+  "title": "Craftsman's Writ: Frostsaber Boots",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94352,
+  "title": "Craftsman's Writ: Wizardweave Turban",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94353,
+  "title": "Craftsman's Writ: Runecloth Bag",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94354,
+  "title": "Craftsman's Writ: Runecloth Boots",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94355,
+  "title": "Craftsman's Writ: Tuxedo Jacket",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94356,
+  "title": "Craftsman's Writ: Felcloth Boots",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94357,
+  "title": "Craftsman's Writ: Cenarion Herb Bag",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94358,
+  "title": "Craftsman's Writ: Shadoweave Mask",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94359,
+  "title": "Craftsman's Writ: Ghostweave Vest",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94360,
+  "title": "Craftsman's Writ: Soul Pouch",
+  "level": 60,
+  "reason": "profession"
+ },
+ {
+  "id": 94369,
+  "title": "The Fate of Zephras",
+  "level": 12,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94413,
+  "title": "A Magical Affront",
+  "level": 6,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94414,
+  "title": "The Anchors of Zephras",
+  "level": 2,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94472,
+  "title": "Earth Sapta",
+  "level": 4,
+  "reason": "repeatable"
+ },
+ {
+  "id": 94473,
+  "title": "Fire Sapta",
+  "level": 13,
+  "reason": "repeatable"
+ },
+ {
+  "id": 94484,
+  "title": "Unnerving Silence",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94485,
+  "title": "Tears of the Lady",
+  "level": 12,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94486,
+  "title": "Feathers for Binding",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94487,
+  "title": "Unwanted and Unworthy",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94488,
+  "title": "The Ties That Bind",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94489,
+  "title": "The Wounds of Betrayal",
+  "level": 12,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94490,
+  "title": "Ripped Missive",
+  "level": 12,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94491,
+  "title": "The Fate of the Den",
+  "level": 12,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94493,
+  "title": "A Sacrifice in Vain",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94568,
+  "title": "The Cult's True Plans",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94638,
+  "title": "Strength and Mercy",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94775,
+  "title": "Divine Grace",
+  "level": 10,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 94776,
+  "title": "Divine Grace",
+  "level": 10,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 94777,
+  "title": "Divine Grace",
+  "level": 10,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 94778,
+  "title": "Divine Grace",
+  "level": 10,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 94779,
+  "title": "Divine Grace",
+  "level": 10,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 94818,
+  "title": "Contingency Plan",
+  "level": 20,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 94820,
+  "title": "Contingency Plan",
+  "level": 20,
+  "reason": "no turn-in in the data"
+ },
+ {
+  "id": 94821,
+  "title": "Confounding Flash",
+  "level": 10,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 94822,
+  "title": "Confounding Flash",
+  "level": 10,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 94823,
+  "title": "Confounding Flash",
+  "level": 10,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 94825,
+  "title": "Confounding Flash",
+  "level": 10,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 94826,
+  "title": "Confounding Flash",
+  "level": 10,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 94896,
+  "title": "Aid For The Refugees",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94897,
+  "title": "The Fate of a Loved One",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94946,
+  "title": "The Magical City of Dalaran",
+  "level": 13,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94978,
+  "title": "Taming the Beast",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 94979,
+  "title": "Taming the Beast",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 95161,
+  "title": "Remember That I Love You",
+  "level": 22,
+  "reason": "behind quest 92415 (Remember That I Love You), itself left out"
+ },
+ {
+  "id": 95217,
+  "title": "The Quarry's Smith",
+  "level": 10,
+  "reason": "profession"
+ },
+ {
+  "id": 95250,
+  "title": "Abominable Creatures",
+  "level": 21,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 95384,
+  "title": "Partial Mystical Notes",
+  "level": 40,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 95647,
+  "title": "Lost in the Thicket Things",
+  "level": 31,
+  "reason": "no turn-in in the data"
+ },
+ {
+  "id": 95772,
+  "title": "Songblade Search",
+  "level": 31,
+  "reason": "no turn-in in the data"
+ },
+ {
+  "id": 95795,
+  "title": "Fallen in the Fen",
+  "level": 31,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 95809,
+  "title": "Heartwoven",
+  "level": 31,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 95817,
+  "title": "Rotgath Stonebeard",
+  "level": 60,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 96031,
+  "title": "Camping 101: Leatherworking",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 96044,
+  "title": "Camping 101: Blacksmithing",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 96045,
+  "title": "Camping 101: Alchemy",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 96046,
+  "title": "Camping 101: Mining",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 96047,
+  "title": "Camping 101: First Aid",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 96050,
+  "title": "Camping 101: Fishing",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 96055,
+  "title": "Camping 101: Herbalism",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 96056,
+  "title": "Camping 101: Skinning",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 96057,
+  "title": "Camping 101: Tailoring",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 96058,
+  "title": "Camping 101: Engineering",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 96059,
+  "title": "Camping 101: Enchanting",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 96101,
+  "title": "The Great Outdoors",
+  "level": 6,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 96395,
+  "title": "An Ancient Grudge",
+  "level": 15,
+  "reason": "giver has no place in the data"
+ },
+ {
+  "id": 96638,
+  "title": "The Adventurer",
+  "level": 6,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 96646,
+  "title": "Camping 101: Cooking",
+  "level": 6,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 96782,
+  "title": "Covert Extraction",
+  "level": 36,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 96783,
+  "title": "A Way In",
+  "level": 34,
+  "reason": "turn-in has no place in the data"
+ },
+ {
+  "id": 96785,
+  "title": "Ain't No Telling",
+  "level": 34,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 96786,
+  "title": "The Syndicate Sting",
+  "level": 34,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 97047,
+  "title": "The Cook in the Cage",
+  "level": 38,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 97048,
+  "title": "Returning to Port",
+  "level": 38,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 97065,
+  "title": "Tip the Scales - Keefer's Angelfish",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 97066,
+  "title": "Tip the Scales - Brownell's Blue Striped Racer",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 97067,
+  "title": "Tip the Scales - Dezian Queenfish",
+  "level": 60,
+  "reason": "repeatable"
+ },
+ {
+  "id": 97284,
+  "title": "Vahlarriel's Vengeance",
+  "level": 33,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 97329,
+  "title": "Where's the Key?",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 97331,
+  "title": "Zimmix's Great Escape",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 97420,
+  "title": "Reduce, Reuse, Reconcile",
+  "level": 36,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 97915,
+  "title": "Camping 101: Alchemy",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97916,
+  "title": "Camping 101: Blacksmithing",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97917,
+  "title": "Camping 101: Enchanting",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97918,
+  "title": "Camping 101: Engineering",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97919,
+  "title": "Camping 101: First Aid",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97920,
+  "title": "Camping 101: Fishing",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97921,
+  "title": "Camping 101: Herbalism",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97922,
+  "title": "Camping 101: Leatherworking",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97923,
+  "title": "Camping 101: Mining",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97924,
+  "title": "Camping 101: Skinning",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97925,
+  "title": "Camping 101: Tailoring",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97938,
+  "title": "Camping 101: Alchemy",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97939,
+  "title": "Camping 101: Blacksmithing",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97940,
+  "title": "Camping 101: Enchanting",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97941,
+  "title": "Camping 101: Engineering",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97942,
+  "title": "Camping 101: First Aid",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97943,
+  "title": "Camping 101: Fishing",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97944,
+  "title": "Camping 101: Herbalism",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97946,
+  "title": "Camping 101: Leatherworking",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97948,
+  "title": "Camping 101: Mining",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97949,
+  "title": "Camping 101: Skinning",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97950,
+  "title": "Camping 101: Tailoring",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97963,
+  "title": "Camping 101: Alchemy",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97964,
+  "title": "Camping 101: Blacksmithing",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97965,
+  "title": "Camping 101: First Aid",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97967,
+  "title": "Camping 101: Fishing",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97968,
+  "title": "Camping 101: Herbalism",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97969,
+  "title": "Camping 101: Leatherworking",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97970,
+  "title": "Camping 101: Mining",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97971,
+  "title": "Camping 101: Skinning",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 97973,
+  "title": "Camping 101: Tailoring",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 98156,
+  "title": "Packaged Pristine Pelts",
+  "level": 31,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98247,
+  "title": "Shipping Label",
+  "level": 60,
+  "reason": "started by an item with no known source"
+ },
+ {
+  "id": 98285,
+  "title": "Camping 101: Engineering",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 98286,
+  "title": "Camping 101: Enchanting",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 98287,
+  "title": "Camping 101: Engineering",
+  "level": 6,
+  "reason": "profession"
+ },
+ {
+  "id": 98338,
+  "title": "REUSE ME",
+  "level": 33,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98372,
+  "title": "An Unfortunate End",
+  "level": 60,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98471,
+  "title": "Message from the Supreme Magister",
+  "level": 35,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98512,
+  "title": "Al'Aketh Assassins",
+  "level": 11,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ },
+ {
+  "id": 98897,
+  "title": "Darkspear Islands Clash",
+  "level": 49,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98899,
+  "title": "Darkspear Islands Clash",
+  "level": 59,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98901,
+  "title": "Darkspear Islands Clash",
+  "level": 60,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98903,
+  "title": "The Battle for Darkspear Islands!",
+  "level": 39,
+  "reason": "giver has no place in the data"
+ },
+ {
+  "id": 98904,
+  "title": "The Battle for Darkspear Islands!",
+  "level": 49,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98905,
+  "title": "The Battle for Darkspear Islands!",
+  "level": 60,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98910,
+  "title": "Darkspear's Basic Care Package",
+  "level": 39,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98913,
+  "title": "Theramore Basic Care Package",
+  "level": 39,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98977,
+  "title": "Mossheart the Elder",
+  "level": 60,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 98983,
+  "title": "Frostleaf the Elder",
+  "level": 60,
+  "reason": "no giver in the data"
+ },
+ {
+  "id": 99191,
+  "title": "A Donation of Wool",
+  "level": 60,
+  "reason": "no turn-in in the data"
+ },
+ {
+  "id": 99192,
+  "title": "A Donation of Silk",
+  "level": 60,
+  "reason": "no turn-in in the data"
+ },
+ {
+  "id": 99260,
+  "title": "Fillion's Mission",
+  "level": 10,
+  "reason": "Zephras Isle: its own race, and the way back at 60 is unknown"
+ }
+]

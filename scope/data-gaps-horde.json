@@ -1,0 +1,1092 @@
+[
+ {
+  "quest": 7509,
+  "title": "The Forging of Quel'Serrar",
+  "what": "objective item 18492 (Treated Ancient Blade) has no known source"
+ },
+ {
+  "quest": 99123,
+  "title": "Lost in the Shadows",
+  "what": "objective with no place: Escort Pal'juh out of Kolkar Crag."
+ },
+ {
+  "quest": 8566,
+  "title": "Past Victories in Arathi",
+  "what": "objective item 19725 (Arathi Resource Crate) has no known source"
+ },
+ {
+  "quest": 8568,
+  "title": "Past Victories in Warsong Gulch",
+  "what": "objective item 19322 (Warsong Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8570,
+  "title": "Past Efforts in Warsong Gulch",
+  "what": "objective item 20256 (Warsong Gulch Ribbon of Sacrifice) has no known source"
+ },
+ {
+  "quest": 8368,
+  "title": "Battle of Warsong Gulch",
+  "what": "objective item 20558 (Warsong Gulch Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8370,
+  "title": "Conquering Arathi Basin",
+  "what": "objective item 20559 (Arathi Basin Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8426,
+  "title": "Battle of Warsong Gulch",
+  "what": "objective item 20558 (Warsong Gulch Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8427,
+  "title": "Battle of Warsong Gulch",
+  "what": "objective item 20558 (Warsong Gulch Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8436,
+  "title": "Conquering Arathi Basin",
+  "what": "objective item 20559 (Arathi Basin Mark of Honor) has no known source"
+ },
+ {
+  "quest": 96774,
+  "title": "Ancient Gurubashi Idol",
+  "what": "objective item 276894 (Ancient Gurubashi Idol) has no known source"
+ },
+ {
+  "quest": 8428,
+  "title": "Battle of Warsong Gulch",
+  "what": "objective item 20558 (Warsong Gulch Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8437,
+  "title": "Conquering Arathi Basin",
+  "what": "objective item 20559 (Arathi Basin Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8429,
+  "title": "Battle of Warsong Gulch",
+  "what": "objective item 20558 (Warsong Gulch Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8438,
+  "title": "Conquering Arathi Basin",
+  "what": "objective item 20559 (Arathi Basin Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8367,
+  "title": "For Great Honor",
+  "what": "objective item 20558 (Warsong Gulch Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8367,
+  "title": "For Great Honor",
+  "what": "objective item 20559 (Arathi Basin Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8367,
+  "title": "For Great Honor",
+  "what": "objective item 20560 (Alterac Valley Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8369,
+  "title": "Invaders of Alterac Valley",
+  "what": "objective item 20560 (Alterac Valley Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8430,
+  "title": "Battle of Warsong Gulch",
+  "what": "objective item 20558 (Warsong Gulch Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8439,
+  "title": "Conquering Arathi Basin",
+  "what": "objective item 20559 (Arathi Basin Mark of Honor) has no known source"
+ },
+ {
+  "quest": 9319,
+  "title": "A Light in Dark Places",
+  "what": "object 181346 (Flame of Dire Maul) has no place"
+ },
+ {
+  "quest": 9319,
+  "title": "A Light in Dark Places",
+  "what": "object 181347 (Flame of Blackrock Spire) has no place"
+ },
+ {
+  "quest": 9319,
+  "title": "A Light in Dark Places",
+  "what": "object 181348 (Flame of Stratholme) has no place"
+ },
+ {
+  "quest": 9319,
+  "title": "A Light in Dark Places",
+  "what": "object 181349 (Flame of the Scholomance) has no place"
+ },
+ {
+  "quest": 4021,
+  "title": "Counterattack!",
+  "what": "objective item 11227 (Piece of Krom'zar's Banner) comes from nothing with a place"
+ },
+ {
+  "quest": 1144,
+  "title": "Willix the Importer",
+  "what": "objective with no place: Help Willix the Importer escape from Razorfen Kraul"
+ },
+ {
+  "quest": 98887,
+  "title": "Conflict at Darkspear Islands",
+  "what": "objective item 274895 (Darkspear Islands Mark of Honor) has no known source"
+ },
+ {
+  "quest": 98888,
+  "title": "Conflict at Darkspear Islands",
+  "what": "objective item 274895 (Darkspear Islands Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8267,
+  "title": "Ribbons of Sacrifice",
+  "what": "objective item 20256 (Warsong Gulch Ribbon of Sacrifice) has no known source"
+ },
+ {
+  "quest": 95819,
+  "title": "Sign Me Up!",
+  "what": "objective item 270897 (Massive Pile of Completed Forms) has no known source"
+ },
+ {
+  "quest": 96781,
+  "title": "What's the Big Idea?",
+  "what": "objective item 275482 (Barton's Scouting Report) has no known source"
+ },
+ {
+  "quest": 1712,
+  "title": "Cyclonian",
+  "what": "objective item 6851 (Essence of the Exile) has no known source"
+ },
+ {
+  "quest": 8413,
+  "title": "Da Voodoo",
+  "what": "objective item 20606 (Amber Voodoo Feather) comes from nothing with a place"
+ },
+ {
+  "quest": 8413,
+  "title": "Da Voodoo",
+  "what": "objective item 20607 (Blue Voodoo Feather) comes from nothing with a place"
+ },
+ {
+  "quest": 8413,
+  "title": "Da Voodoo",
+  "what": "objective item 20608 (Green Voodoo Feather) comes from nothing with a place"
+ },
+ {
+  "quest": 7101,
+  "title": "Towers and Bunkers",
+  "what": "kill target 13778 (PvP Tower Credit Marker) has no place"
+ },
+ {
+  "quest": 8162,
+  "title": "Cut Arathor Supply Lines",
+  "what": "objective item 20559 (Arathi Basin Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8171,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15005 (PvP ALT-N Credit Marker) has no place"
+ },
+ {
+  "quest": 8171,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15004 (PvP ALT-S Credit Marker) has no place"
+ },
+ {
+  "quest": 8171,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15002 (PvP Mid Credit Marker) has no place"
+ },
+ {
+  "quest": 8171,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15001 (PvP A-Mid Credit Marker) has no place"
+ },
+ {
+  "quest": 8161,
+  "title": "Cut Arathor Supply Lines",
+  "what": "objective item 20559 (Arathi Basin Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8170,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15005 (PvP ALT-N Credit Marker) has no place"
+ },
+ {
+  "quest": 8170,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15004 (PvP ALT-S Credit Marker) has no place"
+ },
+ {
+  "quest": 8170,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15002 (PvP Mid Credit Marker) has no place"
+ },
+ {
+  "quest": 8170,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15001 (PvP A-Mid Credit Marker) has no place"
+ },
+ {
+  "quest": 92519,
+  "title": "Ward Restocking",
+  "what": "objective item 278462 (Packaged Tonics) has no known source"
+ },
+ {
+  "quest": 8160,
+  "title": "Cut Arathor Supply Lines",
+  "what": "objective item 20559 (Arathi Basin Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8169,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15005 (PvP ALT-N Credit Marker) has no place"
+ },
+ {
+  "quest": 8169,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15004 (PvP ALT-S Credit Marker) has no place"
+ },
+ {
+  "quest": 8169,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15002 (PvP Mid Credit Marker) has no place"
+ },
+ {
+  "quest": 8169,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15001 (PvP A-Mid Credit Marker) has no place"
+ },
+ {
+  "quest": 8120,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15005 (PvP ALT-N Credit Marker) has no place"
+ },
+ {
+  "quest": 8120,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15004 (PvP ALT-S Credit Marker) has no place"
+ },
+ {
+  "quest": 8120,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15002 (PvP Mid Credit Marker) has no place"
+ },
+ {
+  "quest": 8120,
+  "title": "The Battle for Arathi Basin!",
+  "what": "kill target 15001 (PvP A-Mid Credit Marker) has no place"
+ },
+ {
+  "quest": 8123,
+  "title": "Cut Arathor Supply Lines",
+  "what": "objective item 20559 (Arathi Basin Mark of Honor) has no known source"
+ },
+ {
+  "quest": 8299,
+  "title": "Cut Arathor Supply Lines",
+  "what": "objective item 20559 (Arathi Basin Mark of Honor) has no known source"
+ },
+ {
+  "quest": 715,
+  "title": "Liquid Stone",
+  "what": "objective item 3823 (Lesser Invisibility Potion) has no known source"
+ },
+ {
+  "quest": 716,
+  "title": "Stone Is Better than Cloth",
+  "what": "objective item 2868 (Patterned Bronze Bracers) has no known source"
+ },
+ {
+  "quest": 4729,
+  "title": "Kibler's Exotic Pets",
+  "what": "objective item 12263 (Caged Worg Pup) has no known source"
+ },
+ {
+  "quest": 99144,
+  "title": "Seeking Refuge",
+  "what": "objective with no place: Escort Bareth Dawnstone out of Crusader's Outpost"
+ },
+ {
+  "quest": 1960,
+  "title": "Investigate the Alchemist Shop",
+  "what": "objective item 7292 (Filled Containment Coffer) comes from nothing with a place"
+ },
+ {
+  "quest": 5504,
+  "title": "Mantles of the Dawn",
+  "what": "objective item 12844 (Argent Dawn Valor Token) has no known source"
+ },
+ {
+  "quest": 5524,
+  "title": "Chromatic Mantle of the Dawn",
+  "what": "objective item 12844 (Argent Dawn Valor Token) has no known source"
+ },
+ {
+  "quest": 95036,
+  "title": "A Moon-Kissed Blade",
+  "what": "objective item 267454 (Trevan's Weapon Notes) has no known source"
+ },
+ {
+  "quest": 95036,
+  "title": "A Moon-Kissed Blade",
+  "what": "objective item 272448 (Purified Kor Gem) has no known source"
+ },
+ {
+  "quest": 6022,
+  "title": "To Kill With Purpose",
+  "what": "objective item 15448 (Coagulated Rot) has no known source"
+ },
+ {
+  "quest": 5513,
+  "title": "Mantles of the Dawn",
+  "what": "objective item 12844 (Argent Dawn Valor Token) has no known source"
+ },
+ {
+  "quest": 5517,
+  "title": "Chromatic Mantle of the Dawn",
+  "what": "objective item 12844 (Argent Dawn Valor Token) has no known source"
+ },
+ {
+  "quest": 9121,
+  "title": "The Dread Citadel - Naxxramas",
+  "what": "objective item 20725 (Nexus Crystal) has no known source"
+ },
+ {
+  "quest": 9122,
+  "title": "The Dread Citadel - Naxxramas",
+  "what": "objective item 20725 (Nexus Crystal) has no known source"
+ },
+ {
+  "quest": 9234,
+  "title": "Icebane Gauntlets",
+  "what": "objective item 12359 (Thorium Bar) has no known source"
+ },
+ {
+  "quest": 9234,
+  "title": "Icebane Gauntlets",
+  "what": "objective item 12360 (Arcanite Bar) has no known source"
+ },
+ {
+  "quest": 9235,
+  "title": "Icebane Bracers",
+  "what": "objective item 12359 (Thorium Bar) has no known source"
+ },
+ {
+  "quest": 9235,
+  "title": "Icebane Bracers",
+  "what": "objective item 12360 (Arcanite Bar) has no known source"
+ },
+ {
+  "quest": 9236,
+  "title": "Icebane Breastplate",
+  "what": "objective item 12359 (Thorium Bar) has no known source"
+ },
+ {
+  "quest": 9236,
+  "title": "Icebane Breastplate",
+  "what": "objective item 12360 (Arcanite Bar) has no known source"
+ },
+ {
+  "quest": 9241,
+  "title": "Polar Bracers",
+  "what": "objective item 15407 (Cured Rugged Hide) has no known source"
+ },
+ {
+  "quest": 9242,
+  "title": "Polar Gloves",
+  "what": "objective item 15407 (Cured Rugged Hide) has no known source"
+ },
+ {
+  "quest": 9243,
+  "title": "Polar Tunic",
+  "what": "objective item 15407 (Cured Rugged Hide) has no known source"
+ },
+ {
+  "quest": 9244,
+  "title": "Icy Scale Bracers",
+  "what": "objective item 15407 (Cured Rugged Hide) has no known source"
+ },
+ {
+  "quest": 9245,
+  "title": "Icy Scale Gauntlets",
+  "what": "objective item 15407 (Cured Rugged Hide) has no known source"
+ },
+ {
+  "quest": 9246,
+  "title": "Icy Scale Breastplate",
+  "what": "objective item 15407 (Cured Rugged Hide) has no known source"
+ },
+ {
+  "quest": 93680,
+  "title": "Key to the City",
+  "what": "objective item 279469 (Grimy Key) comes from nothing with a place"
+ },
+ {
+  "quest": 4121,
+  "title": "Precarious Predicament",
+  "what": "objective item 11286 (Thorium Shackles) has no known source"
+ },
+ {
+  "quest": 2904,
+  "title": "A Fine Mess",
+  "what": "objective with no place: Kernobee Rescue"
+ },
+ {
+  "quest": 338,
+  "title": "The Green Hills of Stranglethorn",
+  "what": "objective item 2756 (Green Hills of Stranglethorn - Chapter I) has no known source"
+ },
+ {
+  "quest": 338,
+  "title": "The Green Hills of Stranglethorn",
+  "what": "objective item 2757 (Green Hills of Stranglethorn - Chapter II) has no known source"
+ },
+ {
+  "quest": 338,
+  "title": "The Green Hills of Stranglethorn",
+  "what": "objective item 2758 (Green Hills of Stranglethorn - Chapter III) has no known source"
+ },
+ {
+  "quest": 338,
+  "title": "The Green Hills of Stranglethorn",
+  "what": "objective item 2759 (Green Hills of Stranglethorn - Chapter IV) has no known source"
+ },
+ {
+  "quest": 8042,
+  "title": "Strength of Mount Mugamba",
+  "what": "objective item 19574 (Strength of Mugamba) has no known source"
+ },
+ {
+  "quest": 8043,
+  "title": "Strength of Mount Mugamba",
+  "what": "objective item 19575 (Strength of Mugamba) has no known source"
+ },
+ {
+  "quest": 8044,
+  "title": "The Rage of Mugamba",
+  "what": "objective item 19576 (Strength of Mugamba) has no known source"
+ },
+ {
+  "quest": 8050,
+  "title": "The Eye of Zuldazar",
+  "what": "objective item 19591 (The Eye of Zuldazar) has no known source"
+ },
+ {
+  "quest": 8051,
+  "title": "The Eye of Zuldazar",
+  "what": "objective item 19592 (The Eye of Zuldazar) has no known source"
+ },
+ {
+  "quest": 8052,
+  "title": "The All-Seeing Eye of Zuldazar",
+  "what": "objective item 19593 (The Eye of Zuldazar) has no known source"
+ },
+ {
+  "quest": 8102,
+  "title": "The Pebble of Kajaro",
+  "what": "objective item 19598 (Pebble of Kajaro) has no known source"
+ },
+ {
+  "quest": 8103,
+  "title": "The Pebble of Kajaro",
+  "what": "objective item 19599 (Pebble of Kajaro) has no known source"
+ },
+ {
+  "quest": 8104,
+  "title": "The Jewel of Kajaro",
+  "what": "objective item 19600 (Pebble of Kajaro) has no known source"
+ },
+ {
+  "quest": 8107,
+  "title": "Kezan's Taint",
+  "what": "objective item 19602 (Kezan's Taint) has no known source"
+ },
+ {
+  "quest": 8108,
+  "title": "Kezan's Taint",
+  "what": "objective item 19603 (Kezan's Taint) has no known source"
+ },
+ {
+  "quest": 8109,
+  "title": "Kezan's Unstoppable Taint",
+  "what": "objective item 19604 (Kezan's Taint) has no known source"
+ },
+ {
+  "quest": 8111,
+  "title": "Enchanted South Seas Kelp",
+  "what": "objective item 19610 (Enchanted South Seas Kelp) has no known source"
+ },
+ {
+  "quest": 8112,
+  "title": "Enchanted South Seas Kelp",
+  "what": "objective item 19611 (Enchanted South Seas Kelp) has no known source"
+ },
+ {
+  "quest": 8113,
+  "title": "Pristine Enchanted South Seas Kelp",
+  "what": "objective item 19612 (Enchanted South Seas Kelp) has no known source"
+ },
+ {
+  "quest": 8117,
+  "title": "Vision of Voodress",
+  "what": "objective item 19606 (Vision of Voodress) has no known source"
+ },
+ {
+  "quest": 8118,
+  "title": "Vision of Voodress",
+  "what": "objective item 19607 (Vision of Voodress) has no known source"
+ },
+ {
+  "quest": 8119,
+  "title": "The Unmarred Vision of Voodress",
+  "what": "objective item 19608 (Vision of Voodress) has no known source"
+ },
+ {
+  "quest": 8142,
+  "title": "Zandalarian Shadow Talisman",
+  "what": "objective item 19614 (Zandalarian Shadow Talisman) has no known source"
+ },
+ {
+  "quest": 8143,
+  "title": "Zandalarian Shadow Talisman",
+  "what": "objective item 19615 (Zandalarian Shadow Talisman) has no known source"
+ },
+ {
+  "quest": 8144,
+  "title": "Zandalarian Shadow Mastery Talisman",
+  "what": "objective item 19616 (Zandalarian Shadow Talisman) has no known source"
+ },
+ {
+  "quest": 8146,
+  "title": "The Maelstrom's Tendril",
+  "what": "objective item 19618 (Maelstrom's Tendril) has no known source"
+ },
+ {
+  "quest": 8147,
+  "title": "The Maelstrom's Tendril",
+  "what": "objective item 19619 (Maelstrom's Tendril) has no known source"
+ },
+ {
+  "quest": 8148,
+  "title": "Maelstrom's Wrath",
+  "what": "objective item 19620 (Maelstrom's Tendril) has no known source"
+ },
+ {
+  "quest": 8201,
+  "title": "A Collection of Heads",
+  "what": "objective item 19880 (Gurubashi Head Collection) has no known source"
+ },
+ {
+  "quest": 93663,
+  "title": "Lost in Transit",
+  "what": "objective item 260452 (Courier's Shipment) has no known source"
+ },
+ {
+  "quest": 3374,
+  "title": "The Essence of Eranikus",
+  "what": "objective item 10455 (Chained Essence of Eranikus) has no known source"
+ },
+ {
+  "quest": 8296,
+  "title": "Mark of Honor",
+  "what": "objective item 19322 (Warsong Mark of Honor) has no known source"
+ },
+ {
+  "quest": 6504,
+  "title": "The Lost Pages",
+  "what": "objective item 16642 (Shredder Operating Manual - Chapter 1) has no known source"
+ },
+ {
+  "quest": 6504,
+  "title": "The Lost Pages",
+  "what": "objective item 16643 (Shredder Operating Manual - Chapter 2) has no known source"
+ },
+ {
+  "quest": 6504,
+  "title": "The Lost Pages",
+  "what": "objective item 16644 (Shredder Operating Manual - Chapter 3) has no known source"
+ },
+ {
+  "quest": 8266,
+  "title": "Ribbons of Sacrifice",
+  "what": "objective item 20256 (Warsong Gulch Ribbon of Sacrifice) has no known source"
+ },
+ {
+  "quest": 98069,
+  "title": "Stolen Freewind Supplies",
+  "what": "objective item 279383 (Stolen Freewind Supplies) comes from nothing with a place"
+ },
+ {
+  "quest": 1371,
+  "title": "Gizmo for Warug",
+  "what": "objective item 4392 (Advanced Target Dummy) has no known source"
+ },
+ {
+  "quest": 7067,
+  "title": "The Pariah's Instructions",
+  "what": "objective item 17758 (Amulet of Union) has no known source"
+ },
+ {
+  "quest": 7786,
+  "title": "Thunderaan the Windseeker",
+  "what": "objective item 17771 (Elementium Bar) has no known source"
+ },
+ {
+  "quest": 3528,
+  "title": "The God Hakkar",
+  "what": "objective item 10662 (Filled Egg of Hakkar) has no known source"
+ },
+ {
+  "quest": 8748,
+  "title": "The Path of the Protector",
+  "what": "objective item 21196 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8749,
+  "title": "The Path of the Protector",
+  "what": "objective item 21197 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8750,
+  "title": "The Path of the Protector",
+  "what": "objective item 21198 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8751,
+  "title": "The Protector of Kalimdor",
+  "what": "objective item 21199 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8753,
+  "title": "The Path of the Conqueror",
+  "what": "objective item 21201 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8754,
+  "title": "The Path of the Conqueror",
+  "what": "objective item 21202 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8755,
+  "title": "The Path of the Conqueror",
+  "what": "objective item 21203 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8756,
+  "title": "The Qiraji Conqueror",
+  "what": "objective item 21204 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8758,
+  "title": "The Path of the Invoker",
+  "what": "objective item 21206 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8759,
+  "title": "The Path of the Invoker",
+  "what": "objective item 21207 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8760,
+  "title": "The Path of the Invoker",
+  "what": "objective item 21208 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8761,
+  "title": "The Grand Invoker",
+  "what": "objective item 21209 (Signet Ring of the Bronze Dragonflight) has no known source"
+ },
+ {
+  "quest": 8422,
+  "title": "Trolls of a Feather",
+  "what": "objective item 20606 (Amber Voodoo Feather) comes from nothing with a place"
+ },
+ {
+  "quest": 8422,
+  "title": "Trolls of a Feather",
+  "what": "objective item 20607 (Blue Voodoo Feather) comes from nothing with a place"
+ },
+ {
+  "quest": 8422,
+  "title": "Trolls of a Feather",
+  "what": "objective item 20608 (Green Voodoo Feather) comes from nothing with a place"
+ },
+ {
+  "quest": 8481,
+  "title": "The Root of All Evil",
+  "what": "objective item 21145 (Essence of Xandivious) comes from nothing with a place"
+ },
+ {
+  "quest": 3845,
+  "title": "It's a Secret to Everybody",
+  "what": "objective item 11104 (Large Compass) has no known source"
+ },
+ {
+  "quest": 3845,
+  "title": "It's a Secret to Everybody",
+  "what": "objective item 11105 (Curled Map Parchment) has no known source"
+ },
+ {
+  "quest": 3845,
+  "title": "It's a Secret to Everybody",
+  "what": "objective item 11106 (Lion-headed Key) has no known source"
+ },
+ {
+  "quest": 8862,
+  "title": "Elune's Candle",
+  "what": "objective item 21100 (Coin of Ancestry) has no known source"
+ },
+ {
+  "quest": 8332,
+  "title": "Dukes of the Council",
+  "what": "objective item 14344 (Large Brilliant Shard) has no known source"
+ },
+ {
+  "quest": 8532,
+  "title": "The Horde Needs Copper Bars!",
+  "what": "objective item 2840 (Copper Bar) has no known source"
+ },
+ {
+  "quest": 8542,
+  "title": "The Horde Needs Tin Bars!",
+  "what": "objective item 3576 (Tin Bar) has no known source"
+ },
+ {
+  "quest": 8545,
+  "title": "The Horde Needs Mithril Bars!",
+  "what": "objective item 3860 (Mithril Bar) has no known source"
+ },
+ {
+  "quest": 8604,
+  "title": "The Horde Needs Wool Bandages!",
+  "what": "objective item 3530 (Wool Bandage) has no known source"
+ },
+ {
+  "quest": 8607,
+  "title": "The Horde Needs Mageweave Bandages!",
+  "what": "objective item 8544 (Mageweave Bandage) has no known source"
+ },
+ {
+  "quest": 8609,
+  "title": "The Horde Needs Runecloth Bandages!",
+  "what": "objective item 14529 (Runecloth Bandage) has no known source"
+ },
+ {
+  "quest": 8611,
+  "title": "The Horde Needs Lean Wolf Steaks!",
+  "what": "objective item 12209 (Lean Wolf Steak) has no known source"
+ },
+ {
+  "quest": 8615,
+  "title": "The Horde Needs Baked Salmon!",
+  "what": "objective item 13935 (Baked Salmon) has no known source"
+ },
+ {
+  "quest": 8914,
+  "title": "An Earnest Proposition",
+  "what": "objective item 16681 (Beaststalker's Bindings) comes from nothing with a place"
+ },
+ {
+  "quest": 8915,
+  "title": "An Earnest Proposition",
+  "what": "objective item 16683 (Magister's Bindings) comes from nothing with a place"
+ },
+ {
+  "quest": 8920,
+  "title": "An Earnest Proposition",
+  "what": "objective item 16735 (Bracers of Valor) comes from nothing with a place"
+ },
+ {
+  "quest": 97485,
+  "title": "Traditions of the Bluff",
+  "what": "objective item 278078 (Prepared Incense) has no known source"
+ },
+ {
+  "quest": 76160,
+  "title": "Stalk With The Earthmother",
+  "what": "objective item 206175 (Pine Salve) has no known source"
+ },
+ {
+  "quest": 76240,
+  "title": "Stalk With The Earthmother",
+  "what": "objective item 206345 (Fish Chunks) has no known source"
+ },
+ {
+  "quest": 515,
+  "title": "Elixir of Agony",
+  "what": "objective item 3388 (Strong Troll's Blood Potion) has no known source"
+ },
+ {
+  "quest": 8904,
+  "title": "Dangerous Love",
+  "what": "objective item 22145 (Guardian's Moldy Card) has no known source"
+ },
+ {
+  "quest": 3786,
+  "title": "Morrowgrain Research",
+  "what": "objective item 11040 (Morrowgrain) has no known source"
+ },
+ {
+  "quest": 1838,
+  "title": "Brutal Armor",
+  "what": "objective item 3575 (Iron Bar) has no known source"
+ },
+ {
+  "quest": 1796,
+  "title": "Components for the Enchanted Gold Bloodrobe",
+  "what": "objective item 5770 (Robes of Arcana) has no known source"
+ },
+ {
+  "quest": 4146,
+  "title": "Zapper Fuel",
+  "what": "objective item 11318 (Atal'ai Haze) comes from nothing with a place"
+ },
+ {
+  "quest": 7163,
+  "title": "Rise and Be Recognized",
+  "what": "objective item 17690 (Frostwolf Insignia Rank 1) has no known source"
+ },
+ {
+  "quest": 7164,
+  "title": "Honored Amongst the Clan",
+  "what": "objective item 17905 (Frostwolf Insignia Rank 2) has no known source"
+ },
+ {
+  "quest": 7165,
+  "title": "Earned Reverence",
+  "what": "objective item 17906 (Frostwolf Insignia Rank 3) has no known source"
+ },
+ {
+  "quest": 7166,
+  "title": "Legendary Heroes",
+  "what": "objective item 17907 (Frostwolf Insignia Rank 4) has no known source"
+ },
+ {
+  "quest": 7167,
+  "title": "The Eye of Command",
+  "what": "objective item 17908 (Frostwolf Insignia Rank 5) has no known source"
+ },
+ {
+  "quest": 5149,
+  "title": "Pamela's Doll",
+  "what": "objective item 12885 (Pamela's Doll) has no known source"
+ },
+ {
+  "quest": 6146,
+  "title": "Nathanos' Ruse",
+  "what": "objective item 13852 (The Grand Crusader's Command) has no known source"
+ },
+ {
+  "quest": 9230,
+  "title": "Ramaladni's Icy Grasp",
+  "what": "objective item 12360 (Arcanite Bar) has no known source"
+ },
+ {
+  "quest": 7626,
+  "title": "Bell of Dethmoora",
+  "what": "objective item 9264 (Elixir of Shadow Power) has no known source"
+ },
+ {
+  "quest": 7627,
+  "title": "Wheel of the Black March",
+  "what": "objective item 14344 (Large Brilliant Shard) has no known source"
+ },
+ {
+  "quest": 7630,
+  "title": "Arcanite",
+  "what": "objective item 12360 (Arcanite Bar) has no known source"
+ },
+ {
+  "quest": 8425,
+  "title": "Voodoo Feathers",
+  "what": "objective item 20606 (Amber Voodoo Feather) comes from nothing with a place"
+ },
+ {
+  "quest": 8425,
+  "title": "Voodoo Feathers",
+  "what": "objective item 20607 (Blue Voodoo Feather) comes from nothing with a place"
+ },
+ {
+  "quest": 8425,
+  "title": "Voodoo Feathers",
+  "what": "objective item 20608 (Green Voodoo Feather) comes from nothing with a place"
+ },
+ {
+  "quest": 1951,
+  "title": "Rituals of Power",
+  "what": "objective item 7274 (Rituals of Power) comes from nothing with a place"
+ },
+ {
+  "quest": 8921,
+  "title": "The Ectoplasmic Distiller",
+  "what": "objective item 16006 (Delicate Arcanite Converter) has no known source"
+ },
+ {
+  "quest": 8921,
+  "title": "The Ectoplasmic Distiller",
+  "what": "objective item 16203 (Greater Eternal Essence) has no known source"
+ },
+ {
+  "quest": 8921,
+  "title": "The Ectoplasmic Distiller",
+  "what": "objective item 13423 (Stonescale Oil) has no known source"
+ },
+ {
+  "quest": 5526,
+  "title": "Shards of the Felvine",
+  "what": "objective item 18540 (Sealed Reliquary of Purity) has no known source"
+ },
+ {
+  "quest": 8341,
+  "title": "Lords of the Council",
+  "what": "objective item 14344 (Large Brilliant Shard) has no known source"
+ },
+ {
+  "quest": 1858,
+  "title": "The Shattered Hand",
+  "what": "objective item 7295 (Tazan's Logbook) has no known source"
+ },
+ {
+  "quest": 3924,
+  "title": "Samophlange Manual",
+  "what": "objective item 11149 (Samophlange Manual) has no known source"
+ },
+ {
+  "quest": 5502,
+  "title": "A Warden of the Horde",
+  "what": "objective item 18597 (Orcish Orphan Whistle) has no known source"
+ },
+ {
+  "quest": 6962,
+  "title": "Treats for Great-father Winter",
+  "what": "objective item 17197 (Gingerbread Cookie) has no known source"
+ },
+ {
+  "quest": 8927,
+  "title": "Just Compensation",
+  "what": "objective item 16716 (Wildheart Belt) comes from nothing with a place"
+ },
+ {
+  "quest": 8927,
+  "title": "Just Compensation",
+  "what": "objective item 16717 (Wildheart Gloves) comes from nothing with a place"
+ },
+ {
+  "quest": 6002,
+  "title": "Body and Heart",
+  "what": "kill target 12144 (Lunaclaw Spirit) has no place"
+ },
+ {
+  "quest": 4784,
+  "title": "Components for the Enchanted Gold Bloodrobe",
+  "what": "objective item 6265 (Soul Shard) comes from nothing with a place"
+ },
+ {
+  "quest": 5051,
+  "title": "Two Halves Become One",
+  "what": "objective item 12723 (Good Luck Charm) has no known source"
+ },
+ {
+  "quest": 5206,
+  "title": "Marauders of Darrowshire",
+  "what": "objective item 13155 (Resonating Skull) has no known source"
+ },
+ {
+  "quest": 8947,
+  "title": "Anthion's Strange Request",
+  "what": "objective item 11371 (Dark Iron Bar) has no known source"
+ },
+ {
+  "quest": 8947,
+  "title": "Anthion's Strange Request",
+  "what": "objective item 14342 (Mooncloth) has no known source"
+ },
+ {
+  "quest": 8947,
+  "title": "Anthion's Strange Request",
+  "what": "objective item 15407 (Cured Rugged Hide) has no known source"
+ },
+ {
+  "quest": 1203,
+  "title": "Jarl Needs a Blade",
+  "what": "objective item 3853 (Moonsteel Broadsword) has no known source"
+ },
+ {
+  "quest": 8620,
+  "title": "The Only Prescription",
+  "what": "objective item 21111 (Draconic For Dummies: Volume II) has no known source"
+ },
+ {
+  "quest": 8950,
+  "title": "The Instigator's Enchantment",
+  "what": "objective item 14344 (Large Brilliant Shard) has no known source"
+ },
+ {
+  "quest": 4771,
+  "title": "Dawn's Gambit",
+  "what": "objective with no place: Place Dawn's Gambit"
+ },
+ {
+  "quest": 9022,
+  "title": "Anthion's Parting Words",
+  "what": "objective item 16734 (Boots of Valor) comes from nothing with a place"
+ },
+ {
+  "quest": 9022,
+  "title": "Anthion's Parting Words",
+  "what": "objective item 16732 (Legplates of Valor) comes from nothing with a place"
+ },
+ {
+  "quest": 9022,
+  "title": "Anthion's Parting Words",
+  "what": "objective item 16733 (Spaulders of Valor) comes from nothing with a place"
+ },
+ {
+  "quest": 8728,
+  "title": "The Good News and The Bad News",
+  "what": "objective item 12360 (Arcanite Bar) has no known source"
+ },
+ {
+  "quest": 8989,
+  "title": "The Right Piece of Lord Valthalak's Amulet",
+  "what": "objective item 22048 (Lord Valthalak's Amulet) has no known source"
+ },
+ {
+  "quest": 8990,
+  "title": "The Right Piece of Lord Valthalak's Amulet",
+  "what": "objective item 22048 (Lord Valthalak's Amulet) has no known source"
+ },
+ {
+  "quest": 8991,
+  "title": "The Right Piece of Lord Valthalak's Amulet",
+  "what": "objective item 22048 (Lord Valthalak's Amulet) has no known source"
+ },
+ {
+  "quest": 8992,
+  "title": "The Right Piece of Lord Valthalak's Amulet",
+  "what": "objective item 22048 (Lord Valthalak's Amulet) has no known source"
+ },
+ {
+  "quest": 8994,
+  "title": "Final Preparations",
+  "what": "objective item 13512 (Flask of Supreme Power) has no known source"
+ },
+ {
+  "quest": 8995,
+  "title": "Mea Culpa, Lord Valthalak",
+  "what": "objective item 22048 (Lord Valthalak's Amulet) has no known source"
+ },
+ {
+  "quest": 8743,
+  "title": "Bang a Gong!",
+  "what": "objective item 21175 (The Scepter of the Shifting Sands) has no known source"
+ }
+]

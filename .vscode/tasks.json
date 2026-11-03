@@ -1,0 +1,30 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "forge guide lint",
+			"type": "shell",
+			"command": "forge guide lint",
+			"group": { "kind": "build", "isDefault": true },
+			"presentation": { "reveal": "silent", "clear": true },
+			"problemMatcher": {
+				"owner": "polestar",
+				"fileLocation": ["autoDetect", "${workspaceFolder}"],
+				"pattern": {
+					"regexp": "^(.*):(\\d+): (error|warning): (.*)$",
+					"file": 1,
+					"line": 2,
+					"severity": 3,
+					"message": 4
+				}
+			}
+		},
+		{
+			"label": "polestar playtest",
+			"type": "shell",
+			"command": "polestar playtest",
+			"group": "test",
+			"problemMatcher": []
+		}
+	]
+}
