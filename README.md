@@ -142,19 +142,19 @@ BENCH_FACTION=Alliance lua5.1 tests/bench.lua dist/PolestarPack_EveryQuest tests
 
 ## Releasing
 
-Building needs the game, so GitHub cannot make the zip: you build it, test it and commit it, and the tag publishes it. Raise
-`version` in `pack.json`, then:
+Building needs the game, so GitHub cannot make the zip: you build and test it on your machine, and the
+[GitHub CLI](https://cli.github.com/) publishes it. The zip is not in Git. Raise `version` in `pack.json`, then:
 
 ```sh
 node tools/release.js ../polestar          # release/PolestarPack_EveryQuest-<version>.zip
-node tools/check-release.js v<version>     # what the tag's workflow will check
-git add -A && git commit -m "Every Quest <version>"
+git add -A && git commit -m "chore: release <version>"
 git tag v<version>
 git push origin main v<version>
+zip=$(node tools/check-release.js v<version>) && gh release create v<version> "$zip" --title v<version> --generate-notes --verify-tag
 ```
 
-The workflow checks that the tag matches `pack.json` and that the zip holds the tagged code, then creates the GitHub
-release with the zip attached. On CurseForge or Wago, mark Polestar as a required dependency.
+`tools/check-release.js` checks that the tag matches `pack.json`, that everything is committed and that the zip holds the
+tagged code. On CurseForge or Wago, mark Polestar as a required dependency.
 
 Do not use `forge release pack` or `polestar install` here: they build the catalog alone, without the planner.
 

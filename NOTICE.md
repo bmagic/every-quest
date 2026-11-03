@@ -27,4 +27,4 @@ Every Quest uses the data of Questie (https://github.com/Questie/Questie) and Qu
 
 The files `scope/excluded-*.json` and `scope/data-gaps-*.json` hold quest ids, titles and levels from the same sources.
 The catalog's sources are not in the repository: `tools/generate.js` writes them from a Polestar clone's reference data.
-The zip in `release/` is the built addon, with the data listed above.
+The zip on the Releases page is the built addon, with the data listed above.

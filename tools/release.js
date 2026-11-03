@@ -5,9 +5,9 @@
 //
 //   node tools/release.js <polestar clone>      writes release/PolestarPack_EveryQuest-<version>.zip
 //
-// The zip is committed: a build needs the game's client, so GitHub cannot make it, and the tag's workflow publishes this
-// one (.github/workflows/release.yml). The folder holds the current version's only. The same files give the same zip:
-// entries are sorted and carry a fixed date.
+// A build needs the game's client, so GitHub cannot make the zip: it stays out of Git, and goes from this machine to
+// GitHub's Releases page (README). The folder holds the current version's only. The same files give the same zip: entries
+// are sorted and carry a fixed date.
 const fs = require('node:fs');
 const path = require('node:path');
 const zlib = require('node:zlib');

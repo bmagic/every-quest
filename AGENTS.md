@@ -28,7 +28,8 @@ page in step with the code):
 - Never run `forge release pack`, and never `polestar install` for a real test:
   both build the catalog alone, without the planner. Use
   `node tools/build.js <polestar clone>`, and `node tools/release.js <polestar clone>`
-  for the release zip, which is committed in `release/`: GitHub cannot build it.
+  for the release zip, which stays out of Git: GitHub cannot build it, and the
+  README says how to publish it.
 - After a change to `planner/`, run `lua5.1 tests/rules.lua dist/PolestarPack_EveryQuest`
   and `node tests/integration.js <polestar clone> --quick`.
 

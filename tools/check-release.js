@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 'use strict';
-// What the tag's workflow checks before it publishes the zip, and what to run before tagging: the tag is pack.json's
-// version, and the committed zip is whole and holds this very code.
+// What to run before publishing a release: the tag is pack.json's version, the zip is whole and holds this very code,
+// everything is committed, and the tag, once it exists, is this commit.
 //
 //   node tools/check-release.js v0.1.0      prints the zip's path, or says what is wrong
 const fs = require('node:fs');
@@ -21,7 +21,7 @@ const { version } = JSON.parse(fs.readFileSync(path.join(PACK, 'pack.json'), 'ut
 if (tag !== `v${version}`) fail(`the tag is ${tag}, and pack.json says version ${version}`);
 
 const zip = path.join('release', `${FOLDER}-${version}.zip`);
-if (!fs.existsSync(path.join(PACK, zip))) fail(`no ${zip}: run node tools/release.js <polestar clone>, then commit it`);
+if (!fs.existsSync(path.join(PACK, zip))) fail(`no ${zip}: run node tools/release.js <polestar clone>`);
 const unzip = (...args) => execFileSync('unzip', args, { cwd: PACK, maxBuffer: 64 * 1024 * 1024, stdio: ['ignore', 'pipe', 'ignore'] });
 try {
   unzip('-tqq', zip);
@@ -49,4 +49,15 @@ for (const f of fs.readdirSync(path.join(PACK, 'planner'))) {
 for (const [source, built] of same) {
   if (!fs.readFileSync(path.join(PACK, source)).equals(inZip(built))) fail(`${built} in the zip is not this ${source}: run node tools/release.js <polestar clone>`);
 }
+
+// The zip goes out from this machine: what it holds must be what the tag holds.
+const git = (...args) => String(execFileSync('git', args, { cwd: PACK, stdio: ['ignore', 'pipe', 'ignore'] })).trim();
+if (git('status', '--porcelain')) fail('commit your changes first: the release must hold the tagged code');
+let tagged = null;
+try {
+  tagged = git('rev-parse', '--verify', '--quiet', `refs/tags/${tag}^{commit}`);
+} catch {
+  // Not tagged yet: this can run before tagging.
+}
+if (tagged && tagged !== git('rev-parse', 'HEAD')) fail(`${tag} is another commit than this one`);
 console.log(zip);
