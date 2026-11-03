@@ -68,6 +68,12 @@ button too.
 | `/everyquest group <level>` | The highest quest level of the group and dungeon quests in your route (default 45) |
 | `/everyquest seconds <n>` | How long the route may take to compute (default 60) |
 
+## Languages
+
+The interface follows the game's language: English, German, French, Spanish (Spain and Latin America), Brazilian Portuguese,
+Russian, Korean and Chinese (Simplified and Traditional). These translations were written by an AI and no native speaker has
+checked them yet: corrections are welcome, in `planner/Locale-<locale>.lua`.
+
 ## What counts
 
 Always: quests you can do alone. By choice, in the window:
@@ -124,6 +130,7 @@ kept by hand: quests the data holds but the game does not offer.
 ## Tests
 
 ```sh
+lua5.1 tests/locale.lua                                 # each language holds every text, with the right formats
 lua5.1 tests/rules.lua dist/PolestarPack_EveryQuest     # which quests a character is offered, rule by rule
 node tests/integration.js ../polestar                   # the real Polestar in its simulated world; --quick for a short run
 POLESTAR_ADDON_DIR=<an AddOns folder> node tests/integration.js ../polestar   # against that folder's Polestar

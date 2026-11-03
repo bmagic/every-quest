@@ -23,6 +23,8 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y lua5.1
       - name: The Lua files parse
         run: luac5.1 -p planner/*.lua tests/*.lua
+      - name: The translations are whole
+        run: lua5.1 tests/locale.lua
       - name: The JavaScript files parse
         run: for f in tools/*.js tests/*.js; do node --check "$f"; done
       - name: The JSON files parse

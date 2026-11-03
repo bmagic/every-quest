@@ -17,7 +17,6 @@ The data holds facts about the game (ids, names, levels, positions, quest chains
   compiler writes next to them, lists each source, its version and its licence.
 - `Meta-Horde.lua` and `Meta-Alliance.lua` are written by this project's `tools/build.js`, from the same reference data
   of a Polestar clone: quest levels, chains and reputations, faction names, and the travel network of Polestar's Forge.
-  They name the Polestar reputation guide a route step points to.
 
 ## Data in this repository
 

@@ -51,7 +51,8 @@ function before(persona, done) {
     stub.addons[#stub.addons + 1] = { name = "PolestarPack_EveryQuest", title = "Polestar Community: Every Quest", loaded = true }
     stub.addonMeta.PolestarPack_EveryQuest = { ["X-Polestar-Pack"] = "every-quest", ["X-Polestar-Format"] = "3", ["X-Polestar-Needs"] = "0.2.5", Title = "Polestar Community: Every Quest" }
     for _, q in ipairs({ ${done.join(',')} }) do w.completed[q] = true end
-    ${popups}`;
+    ${popups}
+    ${persona.locale ? `function GetLocale() return ${JSON.stringify(persona.locale)} end` : ''}`;
 }
 
 function play(persona, done, label) {
@@ -623,6 +624,69 @@ function allianceTest() {
   });
 }
 
+// The interface in a language: every text that formats something, and nothing left in English where it is translated.
+function localeTest(locale) {
+  return runAddon({
+    stubs: ['stub_world.lua'],
+    before: before({ race: 'Orc', cls: 'WARRIOR', locale }, []),
+    addons: ['Polestar', { name: 'PolestarPack_EveryQuest', dir: DIST }],
+    script: `
+      stub.login()
+      debugprofilestop = function() return os.clock() * 1000 end
+      Polestar.Set("behavior.autoNextGuide", false)
+      local EQ, L = PolestarEveryQuest, PolestarEveryQuest.L
+      local r = {}
+      local said = {}
+      local printing = Polestar.Print
+      Polestar.Print = function(text) said[#said + 1] = text; return printing(text) end
+      local panel = Polestar.UI.GuideFrame.parts.empty
+      _G.PolestarGuideFrame:Show()
+      r.guideTitle = Polestar.Guides.Get("every-quest/route").title
+      Polestar.Engine.OpenTab("every-quest/route", true)
+      stub.advance(0.6)
+      r.panelTitle = panel.Title:GetText()
+      r.panelButton = panel.Primary.Label:GetText()
+      -- The window, with everything that makes a number or a name appear.
+      EQ.DB().grindRep = true
+      local F = EQ.ShowOptions()
+      r.total = F.Total:GetText()
+      r.compute = F.Compute.Label:GetText()
+      F:Hide()
+      -- Every command, and the route with a reputation to grind.
+      EQ.Command("status")
+      EQ.Command("group")
+      EQ.Command("group 40")
+      EQ.Command("seconds")
+      EQ.Command("seconds 2")
+      EQ.Command("open")
+      EQ.Command("clear")
+      EQ.Command("nonsense")
+      EQ.Plan({ sync = true, ticks = 50 })
+      local rep, repNote
+      for _, s in ipairs(Polestar.Guides.Get("every-quest/route").steps) do
+        for _, g in ipairs(s.goals) do
+          if g.t == "rep" and not rep then rep, repNote = s.title, g.note end
+        end
+      end
+      r.repStep, r.repNote = rep, repNote
+      EQ.Plan({ seconds = 1 })
+      stub.advance(0.02)
+      r.bar = _G.PolestarEveryQuestProgress.text:GetText()
+      local frames = 0
+      while EQ.IsComputing() and frames < 200000 do stub.advance(0.02); frames = frames + 1 end
+      EQ.ClearRoute()
+      Polestar.Print = printing
+      r.said = #said
+      r.english = 0
+      for _, text in ipairs(said) do
+        if text:find("your route", 1, true) or text:find("quests to do", 1, true) then r.english = r.english + 1; r.sample = text end
+      end
+      r.eventName = EQ.EVENTS[6].name
+      emit(r)
+    `,
+  });
+}
+
 // A character with no faction yet: told, and nothing computed, until it has one. Then it finds its side's data.
 function noFactionTest() {
   return runAddon({
@@ -647,6 +711,7 @@ function noFactionTest() {
   });
 }
 
+const LOCALES = ['deDE', 'esES', 'esMX', 'frFR', 'koKR', 'ptBR', 'ruRU', 'zhCN', 'zhTW'];
 let failed = 0;
 const undead = { race: 'Scourge', cls: 'WARRIOR' };
 {
@@ -718,6 +783,15 @@ const undead = { race: 'Scourge', cls: 'WARRIOR' };
     && r.commandClears && r.noTabOpened;
   if (!ok) failed++;
   console.log(`${ok ? 'ok  ' : 'FAIL'} the route can be cleared, and no marks stay behind: ${JSON.stringify(r)}${r ? '' : String(run.stderr || run.stdout || '').slice(0, 1500)}`);
+}
+for (const locale of LOCALES) {
+  const run = localeTest(locale);
+  const r = run.emitted[0];
+  const ok = r && r.guideTitle !== 'Every Quest: your route' && r.panelTitle !== 'No route yet' && r.panelButton !== 'Compute my route'
+    && r.compute !== 'Compute my route' && !/quests/.test(r.total) && r.repStep && !/^Reach /.test(r.repStep) && !/the route waits/.test(r.repNote || '')
+    && r.bar && !/left, play on/.test(r.bar) && r.said >= 8 && r.english === 0 && r.eventName !== "Hallow's End";
+  if (!ok) failed++;
+  console.log(`${ok ? 'ok  ' : 'FAIL'} the interface in ${locale}: ${JSON.stringify(r)}${r ? '' : String(run.stderr || run.stdout || '').slice(0, 1500)}`);
 }
 {
   const run = windowTest(undead);

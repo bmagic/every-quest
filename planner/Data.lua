@@ -5,6 +5,9 @@
 PolestarEveryQuest = PolestarEveryQuest or {}
 local EQ = PolestarEveryQuest
 
+-- The interface's texts: English is the key, and the client's language comes from its Locale file, loaded next.
+EQ.L = setmetatable({}, { __index = function(_, key) return key end })
+
 EQ.catalog = {}
 local sides = {}
 

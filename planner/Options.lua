@@ -1,7 +1,8 @@
 -- Every Quest's window: which quests the route holds. Built with Polestar's own widgets and theme, so it
--- takes whatever look the player chose there. `/everyquest` opens it; "Compute my route" starts the route.
+-- takes whatever look the player chose there. `/everyquest` opens it; L["Compute my route"] starts the route.
 
 local EQ = PolestarEveryQuest
+local L = EQ.L
 local Theme, W = Polestar.Theme, Polestar.Widgets
 
 local NAME = "PolestarEveryQuestOptions"
@@ -27,13 +28,13 @@ local function refresh()
 		if row.Refresh then row:Refresh() end
 	end
 	if not info then
-		F.Total:SetText("No quests until this character has a faction")
+		F.Total:SetText(L["No quests until this character has a faction"])
 		F.Compute:Disable()
 	elseif info.grinds and info.grinds > 0 then
-		F.Total:SetText(("%d quests and %d reputations to grind"):format(info.quests, info.grinds))
+		F.Total:SetText((L["%d quests and %d reputations to grind"]):format(info.quests, info.grinds))
 		F.Compute:Enable()
 	else
-		F.Total:SetText(("%d quests in your route"):format(info.quests))
+		F.Total:SetText((L["%d quests in your route"]):format(info.quests))
 		F.Compute:Enable()
 	end
 	-- Polestar's text buttons look the same when disabled: dimmed as its icon buttons are.
@@ -69,6 +70,12 @@ local function section(parent, text, y)
 	return y + h:GetHeight()
 end
 
+-- A zone's name as the game writes it in its language.
+local function zone(id, english)
+	local C = Polestar.Compat
+	return C and C.MapName and C.MapName(id) or english
+end
+
 local function build()
 	local d = EQ.DB()
 	F = CreateFrame("Frame", NAME, UIParent)
@@ -95,7 +102,7 @@ local function build()
 	local band = Theme.Band(head, "BACKGROUND", -5)
 	band:SetAllPoints(head)
 	band:SetTexCoord(Theme.BandCoords(WIDTH - 2, HEAD_H))
-	local close = W.IconButton(head, "close", 28, "Close", function() F:Hide() end, 14)
+	local close = W.IconButton(head, "close", 28, L["Close"], function() F:Hide() end, 14)
 	close:SetPoint("TOPRIGHT", head, "TOPRIGHT", -12, -14)
 	local title = W.Text(head, "title", "text")
 	title:SetPoint("LEFT", head, "LEFT", PAD, 0)
@@ -115,15 +122,15 @@ local function build()
 		y = y + W.LayoutRow(row, rowWidth)
 	end
 
-	y = section(body, "In your route", y)
-	local group = W.Dropdown(body, "Group and dungeon quests", "everyquest.groupLevel", {
-		{ value = 0, text = "None" },
-		{ value = 30, text = "Up to level 30" },
-		{ value = 45, text = "Up to level 45" },
-		{ value = 50, text = "Up to level 50" },
-		{ value = 55, text = "Up to level 55" },
-		{ value = 60, text = "All of them" },
-	}, "Quests of the client's group and dungeon kinds, and any quest with an elite or a boss to kill. A level 60 should manage them alone up to level 45. Above that, plan on a group.", nil, {
+	y = section(body, L["In your route"], y)
+	local group = W.Dropdown(body, L["Group and dungeon quests"], "everyquest.groupLevel", {
+		{ value = 0, text = L["None"] },
+		{ value = 30, text = L["Up to level %d"]:format(30) },
+		{ value = 45, text = L["Up to level %d"]:format(45) },
+		{ value = 50, text = L["Up to level %d"]:format(50) },
+		{ value = 55, text = L["Up to level %d"]:format(55) },
+		{ value = 60, text = L["All of them"] },
+	}, L["Quests of the client's group and dungeon kinds, and any quest with an elite or a boss to kill. A level 60 should manage them alone up to level 45. Above that, plan on a group."], nil, {
 		get = function() return EQ.DB().groupLevel end,
 		set = function(value)
 			EQ.DB().groupLevel = value or 45
@@ -132,27 +139,27 @@ local function build()
 	})
 	rows[#rows + 1] = group
 	place(group)
-	place(toggle(body, "raid", "Raid quests", "Quests in a raid, or that need what a world boss drops. They take a raid group, whatever your level.",
+	place(toggle(body, "raid", L["Raid quests"], L["Quests in a raid, or that need what a world boss drops. They take a raid group, whatever your level."],
 		function() return EQ.DB().raid end,
 		function(value) EQ.DB().raid = value end,
 		function(c) return c.raid end))
-	place(toggle(body, "pvp", "PvP quests", "Battleground quests: Warsong Gulch, Arathi Basin, Alterac Valley, Darkspear Islands. Marks and reputations come from playing them.",
+	place(toggle(body, "pvp", L["PvP quests"], L["Battleground quests: %s, %s, %s, %s. Marks and reputations come from playing them."]:format(zone(1460, "Warsong Gulch"), zone(1461, "Arathi Basin"), zone(1459, "Alterac Valley"), zone(2524, "Darkspear Islands")),
 		function() return EQ.DB().pvp end,
 		function(value) EQ.DB().pvp = value end,
 		function(c) return c.pvp end))
-	place(toggle(body, "grindRep", "Reputation quests, grinding what they need",
-		"After the other quests, faction by faction: reach the standing, do the quests it opens, then the next standing, up to the last. Without this, a quest stays out until you have the standing it needs.",
+	place(toggle(body, "grindRep", L["Reputation quests, grinding what they need"],
+		L["After the other quests, faction by faction: reach the standing, do the quests it opens, then the next standing, up to the last. Without this, a quest stays out until you have the standing it needs."],
 		function() return EQ.DB().grindRep end,
 		function(value) EQ.DB().grindRep = value end,
 		function(c) return c.reputation end))
 
-	y = section(body, "Seasonal events", y + 6)
+	y = section(body, L["Seasonal events"], y + 6)
 	local hint = W.Text(body, "note", "textDim")
 	hint:SetPoint("TOPLEFT", body, "TOPLEFT", PAD, -y)
 	hint:SetWidth(rowWidth)
 	hint:SetWordWrap(true)
 	hint:SetJustifyH("LEFT")
-	hint:SetText("Their quests are only offered while the event runs: choose the ones running now.")
+	hint:SetText(L["Their quests are only offered while the event runs: choose the ones running now."])
 	y = y + math.ceil(hint:GetStringHeight()) + 8
 	for _, e in ipairs(EQ.EVENTS) do
 		place(toggle(body, "event." .. e.key, e.name, nil,
@@ -169,16 +176,16 @@ local function build()
 
 	F.Total = W.Text(F, "label", "text")
 	F.Total:SetPoint("BOTTOMLEFT", F, "BOTTOMLEFT", PAD, 54)
-	local compute = W.Button(F, "Compute my route", function()
+	local compute = W.Button(F, L["Compute my route"], function()
 		F:Hide()
 		EQ.Plan()
 	end, { primary = true, width = 170 })
 	compute:SetPoint("BOTTOMRIGHT", F, "BOTTOMRIGHT", -PAD, 16)
 	F.Compute = compute
 	-- A second click acts, as on Polestar's own "Reset guide progress". No fixed width: it grows for what the first click says.
-	local clear = W.Button(F, "Clear my route", nil, { danger = true })
+	local clear = W.Button(F, L["Clear my route"], nil, { danger = true })
 	clear.psSetText = W.SetButtonText
-	W.Confirm(clear, "Clear my route", function() EQ.ClearRoute() end)
+	W.Confirm(clear, L["Clear my route"], function() EQ.ClearRoute() end)
 	clear:SetPoint("BOTTOMLEFT", F, "BOTTOMLEFT", PAD, 16)
 	F.Clear = clear
 	F.Scroll, F.Rows = scroll, rows
@@ -212,7 +219,7 @@ local function showOnPackPage()
 	if not (P and win and win.Header and P.Category and P.Section) then return end
 	local here = P.Section() == P.GUIDES and P.Category() == PACK_PAGE
 	if here and not packButton then
-		packButton = W.Button(win.Header, "Options", function() EQ.ShowOptions() end, { width = 90, height = 26 })
+		packButton = W.Button(win.Header, L["Options"], function() EQ.ShowOptions() end, { width = 90, height = 26 })
 		packButton:SetPoint("TOPRIGHT", win.Header, "TOPRIGHT", -16, -32)
 		packButton:SetFrameLevel(win.Header:GetFrameLevel() + 20)
 	end
@@ -232,7 +239,7 @@ local function showGear()
 	if not frame then return end
 	local here = onTheRoute() and not (Polestar.Get and Polestar.Get("ui.compact"))
 	if here and not gear then
-		gear = W.IconButton(frame, "gear", 22, "Every Quest options", function() EQ.ShowOptions() end)
+		gear = W.IconButton(frame, "gear", 22, L["Every Quest options"], function() EQ.ShowOptions() end)
 		gear:SetPoint("TOPRIGHT", frame, "TOPRIGHT", -8, -7)
 		gear:SetFrameLevel(frame:GetFrameLevel() + 20)
 	end
@@ -261,15 +268,15 @@ local function takeOverEndPanel()
 	hooksecurefunc(panel.Primary, "Show", function()
 		if not routeOver(GF) then return end
 		if EQ.DB().route then
-			panel.Title:SetText("Route finished")
-			panel.Text:SetText("Compute a new one for what this character still has left. Options chooses which quests count.")
+			panel.Title:SetText(L["Route finished"])
+			panel.Text:SetText(L["Compute a new one for what this character still has left. Options chooses which quests count."])
 		else
-			panel.Title:SetText("No route yet")
-			panel.Text:SetText("Compute the shortest route from where you stand, through the quests this character has left. Options chooses which quests count.")
+			panel.Title:SetText(L["No route yet"])
+			panel.Text:SetText(L["Compute the shortest route from where you stand, through the quests this character has left. Options chooses which quests count."])
 		end
-		W.SetButtonText(panel.Primary, "Compute my route")
+		W.SetButtonText(panel.Primary, L["Compute my route"])
 		panel.Primary.psAction = function() EQ.Plan() end
-		W.SetButtonText(panel.Secondary, "Options")
+		W.SetButtonText(panel.Secondary, L["Options"])
 		panel.Secondary.psAction = function() EQ.ShowOptions() end
 		panel.Secondary:Show()
 	end)
@@ -298,10 +305,10 @@ if W.ShowMenu then
 			end
 		end
 		if guideMenu then
-			table.insert(items, 1, { text = "Every Quest options", icon = "gear", onClick = function() EQ.ShowOptions() end })
-			table.insert(items, 2, { text = "Compute my route again", icon = "reset", onClick = function() EQ.Plan() end })
-			table.insert(items, 3, { text = "Clear my route", icon = "close", confirm = true, disabled = not EQ.DB().route,
-				tip = "Forgets this route and your marks on its steps. Your quests are not touched.",
+			table.insert(items, 1, { text = L["Every Quest options"], icon = "gear", onClick = function() EQ.ShowOptions() end })
+			table.insert(items, 2, { text = L["Compute my route again"], icon = "reset", onClick = function() EQ.Plan() end })
+			table.insert(items, 3, { text = L["Clear my route"], icon = "close", confirm = true, disabled = not EQ.DB().route,
+				tip = L["Forgets this route and your marks on its steps. Your quests are not touched."],
 				onClick = function() EQ.ClearRoute() end })
 			table.insert(items, 4, { separator = true })
 		end

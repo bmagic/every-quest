@@ -139,7 +139,7 @@ This is Polestar's native guide format, with names and coordinates already resol
 | `quests[id]` | A quest's record: see the next table |
 | `steps[guide]` | For each catalog step: its quest and its role, `A` pick-up, `W` objective, `T` hand-in |
 | `net` | The network. Horde: 59 points (31 flight masters, 12 docks, 14 lifts, 2 portals), 136 flights, 26 rides. Alliance: 76 points (32, 22, 14, 8), 130 flights, 39 rides |
-| `factions`, `repGuides` | The factions quests ask for (13 and 14), and the title of Polestar's reputation guide on each |
+| `factions`, `repGuides` | The factions quests ask for (13 and 14), and whether Polestar has a reputation guide on each |
 
 A quest's record only keeps what the planner reads:
 
@@ -355,6 +355,16 @@ On the Human case (4,071 stops, 1,644 places), the list takes 0.04 s, the travel
 The rest of the time takes the route from 55.9 h to 44.6 h. With all its data, Lua holds 20 to 50 MiB at the end of a
 computation. `tests/bench.lua` measures all this.
 
+## Languages
+
+The interface follows the game's language, in the 9 languages Polestar supports: `deDE`, `esES`, `esMX`, `frFR`, `koKR`,
+`ptBR`, `ruRU`, `zhCN` and `zhTW`. A `planner/Locale-<locale>.lua` file holds each one, and any text it lacks shows in English.
+The key is the English text, as in Polestar's own files, and only the client's file fills `EQ.L`.
+
+The words come from Polestar's glossary (`data/i18n/glossary`) and the game: standings, faction names and zones are read in
+the game at run time. Quest and NPC names in the steps are Polestar's. `tests/locale.lua` checks that each file holds every
+text the code uses and keeps its formats. These translations were written by an AI and no native speaker has checked them.
+
 ## Every link with Polestar
 
 The addon depends on Polestar both when building and in the game, but only three calls and the `.toc` headers belong to
@@ -374,7 +384,7 @@ None of this reaches the player, except as the catalogs and the `Meta-*.lua` fil
 | `rust/crates/forge-world/src/solo-overrides.json` | `generate.js` | The quests Polestar leaves out by hand |
 | `data/sim/world-horde.json`, `world-alliance.json` | `build.js` | The transport network of each faction |
 | `data/forever/factions.json` | `build.js` | Faction names |
-| `guides/forever/reputation/*.guide` | `build.js` | Only each faction's guide title, named in the reputation step |
+| `guides/forever/reputation/*.guide` | `build.js` | Only whether a faction has a guide, which the reputation step says |
 
 ### In the game
 
@@ -390,7 +400,8 @@ The "Status" column says where Polestar describes the item: **Format** for `docs
 | `Compat.GetFactionStanding` | The reputation reached | Internal | Computing fails |
 | `Compat.GetPlayerWorldPosition`, `MapToWorld` | The player's position, converting coordinates | Internal | Computing fails |
 | `Compat.GetPlayerFaction` | Which side's data this character loads | Internal | The race decides, or no quests |
-| `Compat.MapName` | The name of the guide's zone | Internal | No name, harmless |
+| `Compat.MapName` | The name of the guide's zone, and of the battlegrounds in the window | Internal | No name or English, harmless |
+| `Names.Faction` | A faction's name in the client's language, in a reputation step | None | English name, harmless |
 | `Guides.Matches` | Whether a step applies to this race and class | None | Computing fails |
 | `Engine.GetTabs`, `OpenTab`, `CloseTab`, `MoveTab`, `SetGuide` | Opening the route, reopening its tab in place | Internal | Route computed but not opened |
 | `Engine.GetGuide`, `GetStepIndex`, `GetStepView` | Whether the route is open, and whether it is over | Internal | Hooks do nothing |

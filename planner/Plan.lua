@@ -14,22 +14,23 @@
 
 PolestarEveryQuest = PolestarEveryQuest or {}
 local EQ = PolestarEveryQuest
+local L = EQ.L
 
 local GRID = 25 -- yards: stops this close are one place
 
 -- The seasonal events a player can choose, in calendar order, by the data's event ids.
 EQ.EVENTS = {
-	{ key = "lunar", name = "Lunar Festival", ids = { 7 } },
-	{ key = "love", name = "Love is in the Air", ids = { 8 } },
-	{ key = "children", name = "Children's Week", ids = { 10 } },
-	{ key = "midsummer", name = "Midsummer Fire Festival", ids = { 1 } },
-	{ key = "harvest", name = "Harvest Festival", ids = { 11 } },
-	{ key = "hallow", name = "Hallow's End", ids = { 12 } },
-	{ key = "winter", name = "Feast of Winter Veil", ids = { 2, 21 } },
-	{ key = "newyear", name = "New Year", ids = { 34 } },
-	{ key = "faire", name = "Darkmoon Faire", ids = { 4 } },
-	{ key = "scourge", name = "Scourge Invasion", ids = { 17 } },
-	{ key = "aq", name = "Ahn'Qiraj War", ids = { 22, 62, 63, 64, 85, 86 } },
+	{ key = "lunar", name = L["Lunar Festival"], ids = { 7 } },
+	{ key = "love", name = L["Love is in the Air"], ids = { 8 } },
+	{ key = "children", name = L["Children's Week"], ids = { 10 } },
+	{ key = "midsummer", name = L["Midsummer Fire Festival"], ids = { 1 } },
+	{ key = "harvest", name = L["Harvest Festival"], ids = { 11 } },
+	{ key = "hallow", name = L["Hallow's End"], ids = { 12 } },
+	{ key = "winter", name = L["Feast of Winter Veil"], ids = { 2, 21 } },
+	{ key = "newyear", name = L["New Year"], ids = { 34 } },
+	{ key = "faire", name = L["Darkmoon Faire"], ids = { 4 } },
+	{ key = "scourge", name = L["Scourge Invasion"], ids = { 17 } },
+	{ key = "aq", name = L["Ahn'Qiraj War"], ids = { 22, 62, 63, 64, 85, 86 } },
 }
 
 local STANDING_NAME = { [4] = "Neutral", [5] = "Friendly", [6] = "Honored", [7] = "Revered", [8] = "Exalted" }
@@ -44,14 +45,14 @@ end
 -- The step that waits for a standing: Polestar checks it off once the character has it.
 local function repStep(faction, value)
 	local standing = standingOf(value)
-	local name = (PolestarEveryQuestMeta.factions and PolestarEveryQuestMeta.factions[faction]) or ("Faction " .. faction)
+	local name = (EQ.FactionName and EQ.FactionName(faction)) or (PolestarEveryQuestMeta.factions and PolestarEveryQuestMeta.factions[faction]) or ("Faction " .. faction)
 	local guide = PolestarEveryQuestMeta.repGuides and PolestarEveryQuestMeta.repGuides[faction]
 	return {
-		title = ("Reach %s with %s"):format(STANDING_NAME[standing], name),
+		title = L["Reach %s with %s"]:format((EQ.StandingName and EQ.StandingName(standing)) or STANDING_NAME[standing], name),
 		__ref = ("r:%d:%d"):format(faction, value),
 		goals = { {
 			t = "rep", faction = faction, factionName = name, standing = standing,
-			note = guide and ("Polestar's guide \"%s\" (Reputation) shows how; the route waits here."):format(guide) or "Grind it your way; the route waits here.",
+			note = guide and L["Polestar's Reputation guides show how; the route waits here."] or L["Grind it your way; the route waits here."],
 		} },
 	}
 end

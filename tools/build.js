@@ -66,13 +66,12 @@ for (const faction of FACTIONS) {
     if (target && meta[target]) c.crumbFor = target;
     compact[id] = c;
   }
-  // The factions a quest may need, and Polestar's guide on each: the route names it where it asks to grind.
+  // The factions a quest may need, and whether Polestar has a guide on each: the route says so where it asks to grind.
   const factions = {};
   for (const m of Object.values(meta)) for (const [f] of m.reps) factions[f] = factionTable[f]?.name || null;
   const repGuides = {};
   for (const text of repFiles) {
-    const title = (text.match(/^title (.+)$/m) || [])[1];
-    for (const r of text.matchAll(/^\s*rep (\d+) /gm)) if (title && factions[r[1]] !== undefined && !repGuides[r[1]]) repGuides[r[1]] = title;
+    for (const r of text.matchAll(/^\s*rep (\d+) /gm)) if (factions[r[1]] !== undefined) repGuides[r[1]] = true;
   }
   const stepTable = {};
   for (const g of steps) stepTable[g.id] = g.steps;
@@ -107,11 +106,12 @@ for (const faction of FACTIONS) {
 }
 
 // The planner's own files, and the addon's file list.
-for (const f of ['Data.lua', 'Core.lua', 'Plan.lua', 'Addon.lua', 'Options.lua']) fs.copyFileSync(path.join(PACK, 'planner', f), path.join(out, f));
+const locales = fs.readdirSync(path.join(PACK, 'planner')).filter((f) => f.startsWith('Locale-')).sort();
+for (const f of ['Data.lua', ...locales, 'Core.lua', 'Plan.lua', 'Addon.lua', 'Options.lua']) fs.copyFileSync(path.join(PACK, 'planner', f), path.join(out, f));
 fs.copyFileSync(path.join(PACK, 'NOTICE.md'), path.join(out, 'NOTICE.txt'));
 const tocFile = path.join(out, `${FOLDER}.toc`);
 const toc = fs.readFileSync(tocFile, 'utf8')
-  .replace(/^Guides\.lua\s*$/m, ['Data.lua', 'Core.lua', 'Plan.lua', ...FACTIONS.map((f) => `Meta-${f}.lua`), ...FACTIONS.map((f) => `Catalog-${f}.lua`), 'Addon.lua', 'Options.lua'].join('\n'))
+  .replace(/^Guides\.lua\s*$/m, ['Data.lua', ...locales, 'Core.lua', 'Plan.lua', ...FACTIONS.map((f) => `Meta-${f}.lua`), ...FACTIONS.map((f) => `Catalog-${f}.lua`), 'Addon.lua', 'Options.lua'].join('\n'))
   .replace(/^(## Dependencies: Polestar.*)$/m, '$1\n## SavedVariablesPerCharacter: PolestarEveryQuestDB');
 fs.writeFileSync(tocFile, toc);
 const size = (f) => (fs.statSync(path.join(out, f)).size / 1024 / 1024).toFixed(2);
