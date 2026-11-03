@@ -18,6 +18,11 @@ The data holds facts about the game (ids, names, levels, positions, quest chains
 - `Meta-Horde.lua` and `Meta-Alliance.lua` are written by this project's `tools/build.js`, from the same reference data
   of a Polestar clone: quest levels, chains and reputations, faction names, and the travel network of Polestar's Forge.
 
+## Questie
+
+Every Quest uses the data of Questie (https://github.com/Questie/Questie) and QuestieDB
+(https://github.com/Questie/QuestieDB), through Polestar's reference data. Thanks to the Questie team and its contributors.
+
 ## Data in this repository
 
 The files `scope/excluded-*.json` and `scope/data-gaps-*.json` hold quest ids, titles and levels from the same sources.

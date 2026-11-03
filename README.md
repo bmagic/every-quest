@@ -47,7 +47,7 @@ The guide window then offers two buttons:
 Once computed, the route is a Polestar guide like any other, one step at a time:
 
 <p align="center">
-  <img src="docs/images/route-step.png" alt="Step 1 of 350 of a computed route: accept a quest from an NPC in Orgrimmar" width="360">
+  <img src="docs/images/route-step.png" alt="Step 1 of 316 of a computed route: accept A Simmering Storm from the Dull Storm Orb in Durotar, with the journey there" width="360">
 </p>
 
 While the route's guide is open, the guide window also has a gear on its tab strip, and three lines at the top of its
@@ -162,6 +162,12 @@ Do not use `forge release pack` or `polestar install` here: they build the catal
 
 If the game does not offer a quest the route asks for, tell which one and what you saw. Quests the data holds but the game
 does not offer go in `tools/known-out.json`, with who reported them.
+
+## Credits
+
+Every Quest uses the data of [Questie](https://github.com/Questie/Questie) and
+[QuestieDB](https://github.com/Questie/QuestieDB), through Polestar's reference data. Thanks to the Questie team and its
+contributors.
 
 ## Licence
 
